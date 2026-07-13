@@ -1,0 +1,11 @@
+complex,ligand,receptor,affinity_pred_value,affinity_probability_binary,confidence_score,iptm,ligand_iptm,complex_plddt,est_IC50_uM
+D-Phe_HCAR1,D-Phe,HCAR1,1.239,0.609,0.872,0.982,0.982,0.845,17.3
+D-Phe_MRGPRD,D-Phe,MRGPRD,2.722,0.175,0.89,0.959,0.959,0.872,527.0
+Lac-Phe_parent_HCAR1,Lac-Phe_parent,HCAR1,1.379,0.549,0.853,0.98,0.98,0.822,23.9
+Lac-Phe_parent_MRGPRD,Lac-Phe_parent,MRGPRD,2.603,0.135,0.882,0.951,0.951,0.864,400.4
+Reduced_amide_HCAR1,Reduced_amide,HCAR1,1.546,0.731,0.868,0.982,0.982,0.839,35.2
+Reduced_amide_MRGPRD,Reduced_amide,MRGPRD,2.592,0.503,0.905,0.974,0.974,0.888,390.8
+Thioamide_HCAR1,Thioamide,HCAR1,0.646,0.388,0.855,0.982,0.982,0.824,4.4
+Thioamide_MRGPRD,Thioamide,MRGPRD,1.264,0.116,0.882,0.944,0.944,0.867,18.4
+Triazole_HCAR1,Triazole,HCAR1,1.444,0.584,0.869,0.977,0.977,0.843,27.8
+Triazole_MRGPRD,Triazole,MRGPRD,2.389,0.175,0.877,0.957,0.957,0.857,245.1

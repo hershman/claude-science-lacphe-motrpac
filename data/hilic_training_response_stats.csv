@@ -1,0 +1,11 @@
+tissue,n,KW_H,KW_p,KW_q,peak_week,peak_delta,frag_rho,frag_p,specificity,F_peak,M_peak
+Adrenal,50,21.13,0.0003,0.003,2,2.13,-0.126,0.3832,omnibus-only (fragment n.s.),"(2, np.float64(2.4), np.float64(0.0079))","(4, np.float64(1.76), np.float64(0.0079))"
+Colon,50,18.85,0.0008,0.004,2,-0.61,0.392,0.0049,fragment-corroborated,"(2, np.float64(-0.34), np.float64(0.4206))","(1, np.float64(-0.58), np.float64(0.0079))"
+Cortex,50,11.33,0.0231,0.0578,2,-0.44,0.349,0.0131,fragment-corroborated,"(1, np.float64(-0.51), np.float64(0.1508))","(2, np.float64(-0.62), np.float64(0.0159))"
+Hypothalamus,46,2.64,0.6203,0.6203,4,0.26,0.297,0.0453,no training effect,"(4, np.float64(0.38), np.float64(0.2222))","(2, np.float64(-0.59), np.float64(0.0357))"
+Ovaries,25,4.37,0.358,0.3978,4,-0.52,0.558,0.0037,no training effect,"(4, np.float64(-0.52), np.float64(0.4206))",
+Small Intestine,50,4.92,0.2953,0.3691,4,-0.55,0.847,0.0,no training effect,"(8, np.float64(-0.7), np.float64(0.0952))","(4, np.float64(-0.4), np.float64(0.3095))"
+Spleen,50,11.86,0.0185,0.0578,2,-1.39,0.489,0.0003,fragment-corroborated,"(4, np.float64(-1.03), np.float64(0.0556))","(1, np.float64(-1.69), np.float64(0.0317))"
+Testes,25,8.43,0.0769,0.1282,1,-0.79,0.232,0.2638,no training effect,,"(1, np.float64(-0.79), np.float64(0.1508))"
+Vastus Lateralis,50,10.27,0.0361,0.0722,1,-1.06,0.316,0.0255,fragment-corroborated,"(8, np.float64(-0.86), np.float64(0.0079))","(1, np.float64(-0.87), np.float64(0.3095))"
+Vena Cava,24,2.86,0.239,0.3414,4,-1.08,0.671,0.0003,no training effect,"(8, np.float64(-0.2), np.float64(0.6857))","(4, np.float64(-0.95), np.float64(0.5556))"

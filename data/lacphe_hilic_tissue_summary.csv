@@ -1,0 +1,11 @@
+tissue,study_id,platform,n_biological,n_extracted,hilic_apex_rt_min,lacphe_peak_intensity,lacphe_dominant,converted_via
+Adrenal,ST002659,HILIC-pos (Thermo),58,58,3.8,967086,True,Modal ThermoRawFileParser 1.4.5
+Colon,ST002664,HILIC-pos (Thermo),58,58,3.55,61821,True,Modal ThermoRawFileParser 1.4.5
+Cortex,ST002640,HILIC-pos (Thermo),58,58,3.55,82833,False,Modal ThermoRawFileParser 1.4.5
+Hypothalamus,ST002641,HILIC-pos (Thermo),54,54,3.65,91548,True,Modal ThermoRawFileParser 1.4.5
+Ovaries,ST002667,HILIC-pos (Thermo),25,24,3.6,35241,False,Modal ThermoRawFileParser 1.4.5
+Small Intestine,ST002674,HILIC-pos (Thermo),58,58,3.65,383216,True,Modal ThermoRawFileParser 1.4.5
+Spleen,ST002665,HILIC-pos (Thermo),58,58,3.65,42814,True,Modal ThermoRawFileParser 1.4.5
+Testes,ST002666,HILIC-pos (Thermo),33,33,3.6,15755,True,Modal ThermoRawFileParser 1.4.5
+Vastus Lateralis,ST002648,HILIC-pos (Thermo),58,58,3.65,8981,True,Modal ThermoRawFileParser 1.4.5
+Vena Cava,ST002695,HILIC-pos (Thermo),32,32,3.6,6599,True,Modal ThermoRawFileParser 1.4.5

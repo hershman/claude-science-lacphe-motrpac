@@ -1,0 +1,29 @@
+tissue,mode,peak_week,peak_delta_log2,approx_fold,naive_q,selfree_omnibus_q,selaware_p,verdict,female_peak_delta,female_peak_p,male_peak_delta,male_peak_p,hilic_specificity
+Adrenal,HILIC-pos,2,2.13,4.3772,,0.003,0.0378,HILIC omnibus-only; fragment n.s. (interference-suspect),2.4,0.0079,1.76,0.0079,omnibus-only (fragment n.s.)
+Colon,HILIC-pos,2,-0.61,0.6552,,0.004,0.3237,omnibus-significant but not an increase,-0.34,0.4206,-0.58,0.0079,fragment-corroborated
+Cortex,HILIC-pos,2,-0.44,0.7371,,0.0578,0.186,omnibus-significant but not an increase,-0.51,0.1508,-0.62,0.0159,fragment-corroborated
+Hypothalamus,HILIC-pos,4,0.26,1.1975,,0.6203,0.9478,HILIC: no training effect,0.38,0.2222,-0.59,0.0357,no training effect
+Ovaries,HILIC-pos,4,-0.52,0.6974,,0.3978,0.6089,HILIC: no training effect,-0.52,0.4206,,,no training effect
+Small Intestine,HILIC-pos,4,-0.55,0.683,,0.3691,0.7411,HILIC: no training effect,-0.7,0.0952,-0.4,0.3095,no training effect
+Spleen,HILIC-pos,2,-1.39,0.3816,,0.0578,0.9726,omnibus-significant but not an increase,-1.03,0.0556,-1.69,0.0317,fragment-corroborated
+Testes,HILIC-pos,1,-0.79,0.5783,,0.1282,0.7566,HILIC: no training effect,,,-0.79,0.1508,no training effect
+Vastus Lateralis,HILIC-pos,1,-1.06,0.4796,,0.0722,0.6597,omnibus-significant but not an increase,-0.86,0.0079,-0.87,0.3095,fragment-corroborated
+Vena Cava,HILIC-pos,4,-1.08,0.473,,0.3414,0.9102,HILIC: no training effect,-0.2,0.6857,-0.95,0.5556,no training effect
+Brown Adipose,RP-neg,8,0.8092,1.7522,0.6777,0.8132,0.1836,not significant,,,,,
+Gastrocnemius,RP-neg,4,0.6453,1.5641,0.478,0.532,0.1798,not significant,,,,,
+Heart,RP-neg,2,0.2299,1.1728,0.7692,0.8908,0.6275,not significant,,,,,
+Hippocampus,RP-neg,2,0.0027,1.0019,0.8131,0.6407,0.7988,not significant,-0.148,1.0,0.058,0.5476,
+Kidney,RP-neg,8,-0.4096,0.7528,0.8131,0.6407,0.9712,not significant,,,,,
+Liver,RP-neg,8,0.2126,1.1588,0.7692,0.1461,0.5937,not significant,1.025,0.1508,-0.14,0.6905,
+Lung,RP-neg,1,0.6734,1.5948,0.478,0.1284,0.1282,not significant,,,,,
+Plasma,RP-neg,1,0.5002,1.4144,0.0841,0.2777,0.0318,concordant/suggestive (does not clear selection-free),0.748,0.0079,0.298,0.4206,
+White Adipose,RP-neg,4,1.278,2.425,0.081,0.2777,0.0312,concordant/suggestive (does not clear selection-free),1.7,0.0079,1.366,0.0361,
+Brown Adipose,RP-pos,2,0.1157,1.0835,0.9421,0.9938,0.6341,not significant,,0.3017,,0.1797,
+Gastrocnemius,RP-pos,4,0.0826,1.0589,0.8131,0.3748,0.7453,not significant,,0.2045,-0.737,0.0556,
+Heart,RP-pos,2,1.079,2.1126,0.0448,0.0144,0.031,selection-free robust (q=0.014); NOT selection-aware (p=0.031),0.95,0.0079,0.845,0.1508,
+Hippocampus,RP-pos,8,-0.1263,0.9162,1.0,0.9483,0.8728,not significant,,,,,
+Kidney,RP-pos,8,-0.0082,0.9943,0.9632,0.0036,0.8064,omnibus-significant but not an increase,-0.03,1.0,-0.116,0.8413,
+Liver,RP-pos,1,0.2161,1.1616,0.8118,0.1461,0.6403,not significant,,,,,
+Lung,RP-pos,4,0.0571,1.0404,0.8131,0.5295,0.7489,not significant,1.186,0.4206,-0.531,0.6905,
+Plasma,RP-pos,1,0.4858,1.4004,0.478,0.4091,0.3341,concordant/suggestive (does not clear selection-free),,,,,
+White Adipose,RP-pos,2,0.4272,1.3446,0.478,0.8132,0.2088,concordant/suggestive (does not clear selection-free),,,,,

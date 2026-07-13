@@ -1,0 +1,15 @@
+{
+  "neg": {
+    "[M-H]- precursor": 236.09283150522,
+    "[Phe-H]- (loss of lactoyl C3H4O2)": 164.07170213342,
+    "[Lac-H]- lactate": 89.02441759082001,
+    "phenylpyruvate-like 147": 147.04515303252
+  },
+  "pos": {
+    "[M+H]+ precursor": 238.10738443898,
+    "[Phe+H]+ (loss of lactoyl)": 166.08625506718,
+    "immonium of Phe (120)": 120.08077575918,
+    "loss of H2O+CO from [M+H]+": 192.10190513098001
+  },
+  "note": "structure-derived; Lac-Phe absent from MassBank, MoNA auth-walled"
+}

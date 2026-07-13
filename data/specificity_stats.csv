@@ -1,0 +1,40 @@
+analysis,metric,value
+decoy_specificity,n_decoy_tests,64.0
+decoy_specificity,decoy_FP_rate_naive_p<0.05,0.0312
+decoy_specificity,decoy_FP_count_naive_p<0.05,2.0
+decoy_specificity,decoy_FP_rate_selaware_p<0.05,0.0312
+decoy_specificity,decoy_FP_rate_q<0.10,0.0
+decoy_specificity,FP_rate_offset_class,0.125
+decoy_specificity,FP_rate_farmass_class,0.025
+decoy_specificity,FP_rate_randomRT_class,0.0
+decoy_specificity,true_LacPhe_neg_naive_p,0.014
+decoy_specificity,true_LacPhe_neg_rank_of_33,1.0
+decoy_specificity,true_LacPhe_pos_naive_p,0.1859
+decoy_specificity,true_LacPhe_pos_rank_of_33,3.0
+
+# SECTION 2: per-tissue selection-aware corrected p-values (all 18 studies)
+tissue,platform,study_id,peak_week,peak_delta,naive_peak_p,q_naive,sel_p_maxdelta,q_sel_maxdelta,sel_p_minp,q_sel_minp,kw_perm_p,q_kw_perm
+Brown Adipose,RP-neg,ST002686,8.0,0.8092,0.3012,0.6777,0.1836,0.5368,0.6895,0.8274,0.6777,0.8132
+Brown Adipose,RP-pos,ST002687,2.0,0.1157,0.8375,0.9421,0.6341,0.9072,1.0,1.0,0.9938,0.9938
+Gastrocnemius,RP-neg,ST002646,4.0,0.6453,0.1354,0.478,0.1798,0.5368,0.3475,0.5302,0.3251,0.532
+Gastrocnemius,RP-pos,ST002647,4.0,0.0826,0.6227,0.8131,0.7453,0.9072,0.1402,0.4205,0.1666,0.3748
+Heart,RP-neg,ST002916,2.0,0.2299,0.4274,0.7692,0.6275,0.9072,0.8482,0.8981,0.7918,0.8908
+Heart,RP-pos,ST002653,2.0,1.079,0.0025,0.0448,0.031,0.1908,0.004,0.036,0.0016,0.0144
+Hippocampus,RP-neg,ST002638,2.0,0.0027,0.6776,0.8131,0.7988,0.9072,0.3367,0.5302,0.4423,0.6407
+Hippocampus,RP-pos,ST002639,8.0,-0.1263,1.0,1.0,0.8728,0.9242,0.8286,0.8981,0.8956,0.9483
+Kidney,RP-neg,ST002915,8.0,-0.4096,0.5708,0.8131,0.9712,0.9712,0.2072,0.5067,0.4627,0.6407
+Kidney,RP-pos,ST002658,8.0,-0.0082,0.9097,0.9632,0.8064,0.9072,0.0004,0.0072,0.0002,0.0036
+Liver,RP-neg,ST002679,8.0,0.2126,0.4274,0.7692,0.5937,0.9072,0.3551,0.5302,0.0368,0.1461
+Liver,RP-pos,ST002680,1.0,0.2161,0.4961,0.8118,0.6403,0.9072,0.0682,0.2455,0.0406,0.1461
+Lung,RP-neg,ST002672,1.0,0.6734,0.1405,0.478,0.1282,0.5368,0.3829,0.5302,0.0214,0.1284
+Lung,RP-pos,ST002673,4.0,0.0571,0.6776,0.8131,0.7489,0.9072,0.2533,0.5067,0.2941,0.5295
+Plasma,RP-neg,ST002632,1.0,0.5002,0.014,0.0841,0.0318,0.1908,0.0426,0.1917,0.108,0.2777
+Plasma,RP-pos,ST002633,1.0,0.4858,0.1859,0.478,0.3341,0.7518,0.242,0.5067,0.2046,0.4091
+White Adipose,RP-neg,ST002693,4.0,1.278,0.009,0.081,0.0312,0.1908,0.0198,0.1188,0.1078,0.2777
+White Adipose,RP-pos,ST002694,2.0,0.4272,0.1681,0.478,0.2088,0.5368,0.5599,0.7199,0.6559,0.8132
+
+# SECTION 3: focal-tissue effect sizes with bootstrap 95% CI + selection-aware/omnibus p
+tissue_mode,study_id,peak_week,peak_fold,fold_CI_lo,fold_CI_hi,delta_log2,delta_CI_lo,delta_CI_hi,naive_peak_p,sel_aware_p_maxdelta,sel_aware_p_minp,KW_omnibus_p_analytic,KW_omnibus_p_perm
+Plasma RP-neg,ST002632,1.0,1.414,1.175,1.739,0.5,0.232,0.798,0.014,0.028,0.0402,0.105,0.099
+Heart RP-pos,ST002653,2.0,2.113,1.17,3.525,1.079,0.227,1.818,0.0025,0.0316,0.005,0.0031,0.0014
+White Adipose RP-neg,ST002693,4.0,2.425,1.527,3.901,1.278,0.611,1.964,0.009,0.0254,0.0252,0.1084,0.1112

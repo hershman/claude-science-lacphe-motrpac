@@ -1,0 +1,11 @@
+rank,analog,target,consistency,best_pose_score,priority,pocket_confidence,sb_partner,pi_partner,notes
+1,D-Phe,HCAR1,1.0,-5.72,1.0,high,"('ARG', '94', 'A')","('HIS', '256', 'A')",pose@0.2Å (same pocket); salt-bridge reproduced; π-stack reproduced; contact-Tanimoto=1.0
+2,Thioamide,HCAR1,0.98,-5.88,0.98,high,"('ARG', '94', 'A')","('HIS', '256', 'A')",pose@0.18Å (same pocket); salt-bridge reproduced; π-stack reproduced; contact-Tanimoto=0.933
+3,triazole,HCAR1,0.98,-5.94,0.98,high,"('ARG', '94', 'A')","('HIS', '256', 'A')",pose@0.7Å (same pocket); salt-bridge reproduced; π-stack reproduced; contact-Tanimoto=0.933
+4,Reduced_amide,HCAR1,0.98,-6.06,0.98,high,"('ARG', '94', 'A')","('HIS', '256', 'A')",pose@0.57Å (same pocket); salt-bridge reproduced; π-stack reproduced; contact-Tanimoto=0.933
+5,triazole,MRGPRD,0.965,-5.78,0.801,high,"('ARG', '82', 'A')","('TYR', '224', 'A')",pose@2.36Å (same pocket); salt-bridge reproduced; π-stack to different arom; contact-Tanimoto=0.9
+6,D-Phe,MRGPRD,0.965,-5.0,0.801,high,"('ARG', '82', 'A')","('TYR', '224', 'A')",pose@1.46Å (same pocket); salt-bridge reproduced; π-stack to different arom; contact-Tanimoto=0.9
+7,Reduced_amide,MRGPRD,0.941,-4.78,0.781,high,"('ARG', '82', 'A')",None,pose@0.7Å (same pocket); salt-bridge reproduced; contact-Tanimoto=0.833
+8,N-Me_amide,MRGPRD,0.912,-4.45,0.757,high,"('ARG', '82', 'A')","('TRP', '225', 'A')",pose@2.73Å (same pocket); salt-bridge reproduced; π-stack to different arom; contact-Tanimoto=0.75
+9,N-Me_amide,NPY1R,0.92,-7.21,0.69,high,None,"('PHE', '156', 'A')",pose@0.56Å (same pocket); π-stack reproduced; contact-Tanimoto=0.786
+10,D-Phe,NPY1R,0.92,-6.87,0.69,high,None,"('PHE', '156', 'A')",pose@1.18Å (same pocket); π-stack reproduced; contact-Tanimoto=0.786

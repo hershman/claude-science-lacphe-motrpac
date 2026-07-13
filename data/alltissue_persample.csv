@@ -1,0 +1,969 @@
+tissue,platform,study_id,tag,group,timepoint,sex,animal,weeks,area,ppm
+Brown Adipose,RP-neg,ST002686,bio_90217016906,Control,8 weeks of training or control time,Male,90217016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90222016906,Training,8 weeks of training or control time,Male,90222016906,8,6.460479838307638,-4.437022381196282
+Brown Adipose,RP-neg,ST002686,bio_90225016906,Training,8 weeks of training or control time,Male,90225016906,8,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90227016906,Training,8 weeks of training or control time,Male,90227016906,8,5.682503869120185,-0.7505036182013183
+Brown Adipose,RP-neg,ST002686,bio_90229016906,Control,8 weeks of training or control time,Male,90229016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90232016906,Control,8 weeks of training or control time,Male,90232016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90237016906,Control,8 weeks of training or control time,Male,90237016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90239016906,Control,8 weeks of training or control time,Male,90239016906,0,5.777949598693858,0.9035885745136161
+Brown Adipose,RP-neg,ST002686,bio_90248016906,Control,8 weeks of training or control time,Female,90248016906,0,8.771935131835964,3.1924804283249957
+Brown Adipose,RP-neg,ST002686,bio_90251016906,Training,8 weeks of training or control time,Female,90251016906,8,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90252016906,Control,8 weeks of training or control time,Female,90252016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90254016906,Training,8 weeks of training or control time,Female,90254016906,8,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90258016906,Training,8 weeks of training or control time,Female,90258016906,8,8.507812042109165,8.395317467276382
+Brown Adipose,RP-neg,ST002686,bio_90265016906,Control,8 weeks of training or control time,Female,90265016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90266016906,Control,8 weeks of training or control time,Female,90266016906,0,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90267016906,Training,8 weeks of training or control time,Female,90267016906,8,1.791404492441831,6.162085413963368
+Brown Adipose,RP-neg,ST002686,bio_90280016906,Training,4 weeks of training,Male,90280016906,4,2.4959319702148686,5.097521722264737
+Brown Adipose,RP-neg,ST002686,bio_90281016906,Training,4 weeks of training,Male,90281016906,4,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90283016906,Training,4 weeks of training,Male,90283016906,4,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90289016906,Training,4 weeks of training,Male,90289016906,4,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90292016906,Training,4 weeks of training,Male,90292016906,4,2.06736361414588,5.126152352589412
+Brown Adipose,RP-neg,ST002686,bio_90406016906,Training,4 weeks of training,Female,90406016906,4,1.9182269332885933,3.544726720451136
+Brown Adipose,RP-neg,ST002686,bio_90410016906,Training,4 weeks of training,Female,90410016906,4,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90412016906,Training,4 weeks of training,Female,90412016906,4,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90416016906,Training,4 weeks of training,Female,90416016906,4,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90420016906,Training,4 weeks of training,Female,90420016906,4,1.9217044359842614,-1.979017227050392
+Brown Adipose,RP-neg,ST002686,bio_90421016906,Training,1 week of training or control time,Male,90421016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90422016906,Training,1 week of training or control time,Male,90422016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90423016906,Training,1 week of training or control time,Male,90423016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90426016906,Training,1 week of training or control time,Male,90426016906,1,3.787764133453357,-4.732929494372048
+Brown Adipose,RP-neg,ST002686,bio_90430016906,Training,1 week of training or control time,Male,90430016906,1,6.1330701496124185,3.603994825262856
+Brown Adipose,RP-neg,ST002686,bio_90439016906,Training,2 weeks of training,Male,90439016906,2,1.713738023630795,7.9201264188119955
+Brown Adipose,RP-neg,ST002686,bio_90441016906,Training,2 weeks of training,Male,90441016906,2,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90444016906,Training,2 weeks of training,Male,90444016906,2,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90449016906,Training,2 weeks of training,Male,90449016906,2,0.9497431939443302,9.320653284020594
+Brown Adipose,RP-neg,ST002686,bio_90450016906,Training,2 weeks of training,Male,90450016906,2,1.8241599967956725,-9.134662147360899
+Brown Adipose,RP-neg,ST002686,bio_90559016906,Training,1 week of training or control time,Female,90559016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90560016906,Training,1 week of training or control time,Female,90560016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90564016906,Training,1 week of training or control time,Female,90564016906,1,1.7533234077453788,0.3927443571685725
+Brown Adipose,RP-neg,ST002686,bio_90567016906,Training,1 week of training or control time,Female,90567016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90571016906,Training,1 week of training or control time,Female,90571016906,1,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90576016906,Training,2 weeks of training,Female,90576016906,2,1.8012513465881528,-8.312959559621738
+Brown Adipose,RP-neg,ST002686,bio_90578016906,Training,2 weeks of training,Female,90578016906,2,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90581016906,Training,2 weeks of training,Female,90581016906,2,0.0,nan
+Brown Adipose,RP-neg,ST002686,bio_90585016906,Training,2 weeks of training,Female,90585016906,2,1.8838110397339056,-1.956291877186546
+Brown Adipose,RP-neg,ST002686,bio_90587016906,Training,2 weeks of training,Female,90587016906,2,1.7051120961507331,5.6270295229411245
+Brown Adipose,RP-neg,ST002686,blank_0,Blank,,,blank_0,,0.0,nan
+Brown Adipose,RP-neg,ST002686,blank_1,Blank,,,blank_1,,0.0,nan
+Brown Adipose,RP-neg,ST002686,blank_2,Blank,,,blank_2,,0.0,nan
+Brown Adipose,RP-neg,ST002686,blank_3,Blank,,,blank_3,,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90217016906,Control,8 weeks of training or control time,Male,90217016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90222016906,Training,8 weeks of training or control time,Male,90222016906,8,1.7714550760905126,6.956225107077981
+Brown Adipose,RP-pos,ST002687,bio_90225016906,Training,8 weeks of training or control time,Male,90225016906,8,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90229016906,Control,8 weeks of training or control time,Male,90229016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90232016906,Control,8 weeks of training or control time,Male,90232016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90237016906,Control,8 weeks of training or control time,Male,90237016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90239016906,Control,8 weeks of training or control time,Male,90239016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90251016906,Training,8 weeks of training or control time,Female,90251016906,8,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90252016906,Control,8 weeks of training or control time,Female,90252016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90254016906,Training,8 weeks of training or control time,Female,90254016906,8,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90258016906,Training,8 weeks of training or control time,Female,90258016906,8,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90265016906,Control,8 weeks of training or control time,Female,90265016906,0,2.5530222524006736,0.21776938678393795
+Brown Adipose,RP-pos,ST002687,bio_90266016906,Control,8 weeks of training or control time,Female,90266016906,0,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90267016906,Training,8 weeks of training or control time,Female,90267016906,8,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90280016906,Training,4 weeks of training,Male,90280016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90281016906,Training,4 weeks of training,Male,90281016906,4,2.1214620485941778,-0.3493061685787319
+Brown Adipose,RP-pos,ST002687,bio_90283016906,Training,4 weeks of training,Male,90283016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90289016906,Training,4 weeks of training,Male,90289016906,4,1.9357361460368032,-5.2146810982081835
+Brown Adipose,RP-pos,ST002687,bio_90292016906,Training,4 weeks of training,Male,90292016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90406016906,Training,4 weeks of training,Female,90406016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90410016906,Training,4 weeks of training,Female,90410016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90412016906,Training,4 weeks of training,Female,90412016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90416016906,Training,4 weeks of training,Female,90416016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90420016906,Training,4 weeks of training,Female,90420016906,4,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90421016906,Training,1 week of training or control time,Male,90421016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90422016906,Training,1 week of training or control time,Male,90422016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90423016906,Training,1 week of training or control time,Male,90423016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90426016906,Training,1 week of training or control time,Male,90426016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90430016906,Training,1 week of training or control time,Male,90430016906,1,4.065314228820795,9.670925861254831
+Brown Adipose,RP-pos,ST002687,bio_90439016906,Training,2 weeks of training,Male,90439016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90441016906,Training,2 weeks of training,Male,90441016906,2,2.3326125656128163,-3.413814665114615
+Brown Adipose,RP-pos,ST002687,bio_90444016906,Training,2 weeks of training,Male,90444016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90449016906,Training,2 weeks of training,Male,90449016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90450016906,Training,2 weeks of training,Male,90450016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90559016906,Training,1 week of training or control time,Female,90559016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90560016906,Training,1 week of training or control time,Female,90560016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90564016906,Training,1 week of training or control time,Female,90564016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90567016906,Training,1 week of training or control time,Female,90567016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90571016906,Training,1 week of training or control time,Female,90571016906,1,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90576016906,Training,2 weeks of training,Female,90576016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90578016906,Training,2 weeks of training,Female,90578016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90581016906,Training,2 weeks of training,Female,90581016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,bio_90585016906,Training,2 weeks of training,Female,90585016906,2,2.264399300130231,-1.8718214359644576
+Brown Adipose,RP-pos,ST002687,bio_90587016906,Training,2 weeks of training,Female,90587016906,2,0.0,nan
+Brown Adipose,RP-pos,ST002687,blank_0,Blank,,,blank_0,,0.0,nan
+Brown Adipose,RP-pos,ST002687,blank_1,Blank,,,blank_1,,0.0,nan
+Brown Adipose,RP-pos,ST002687,blank_2,Blank,,,blank_2,,0.0,nan
+Brown Adipose,RP-pos,ST002687,blank_3,Blank,,,blank_3,,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90217015509,Control,8 weeks of training or control time,Male,90217015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90218015509,Training,8 weeks of training or control time,Male,90218015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90222015509,Training,8 weeks of training or control time,Male,90222015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90223015509,Training,8 weeks of training or control time,Male,90223015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90225015509,Training,8 weeks of training or control time,Male,90225015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90227015509,Training,8 weeks of training or control time,Male,90227015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90229015509,Control,8 weeks of training or control time,Male,90229015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90232015509,Control,8 weeks of training or control time,Male,90232015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90237015509,Control,8 weeks of training or control time,Male,90237015509,0,3.619284248352087,1.4002329720780937
+Gastrocnemius,RP-neg,ST002646,bio_90239015509,Control,8 weeks of training or control time,Male,90239015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90245015509,Control,8 weeks of training or control time,Female,90245015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90248015509,Control,8 weeks of training or control time,Female,90248015509,0,2.1051015551248833,-4.981139494959451
+Gastrocnemius,RP-neg,ST002646,bio_90251015509,Training,8 weeks of training or control time,Female,90251015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90252015509,Control,8 weeks of training or control time,Female,90252015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90254015509,Training,8 weeks of training or control time,Female,90254015509,8,1.2737866615295197,3.7263526401923266
+Gastrocnemius,RP-neg,ST002646,bio_90258015509,Training,8 weeks of training or control time,Female,90258015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90259015509,Training,8 weeks of training or control time,Female,90259015509,8,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90265015509,Control,8 weeks of training or control time,Female,90265015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90266015509,Control,8 weeks of training or control time,Female,90266015509,0,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90267015509,Training,8 weeks of training or control time,Female,90267015509,8,3.3766339248657564,-3.14156281437021
+Gastrocnemius,RP-neg,ST002646,bio_90280015509,Training,4 weeks of training,Male,90280015509,4,2.374248436482708,8.963366081827663
+Gastrocnemius,RP-neg,ST002646,bio_90281015509,Training,4 weeks of training,Male,90281015509,4,1.941639893086719,3.2710750334232634
+Gastrocnemius,RP-neg,ST002646,bio_90283015509,Training,4 weeks of training,Male,90283015509,4,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90289015509,Training,4 weeks of training,Male,90289015509,4,0.8914805252075046,0.436383181709098
+Gastrocnemius,RP-neg,ST002646,bio_90292015509,Training,4 weeks of training,Male,90292015509,4,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90406015509,Training,4 weeks of training,Female,90406015509,4,3.110876222228952,-7.734059461659968
+Gastrocnemius,RP-neg,ST002646,bio_90410015509,Training,4 weeks of training,Female,90410015509,4,2.0569310357411776,0.13623824168062892
+Gastrocnemius,RP-neg,ST002646,bio_90412015509,Training,4 weeks of training,Female,90412015509,4,4.326080865478559,-5.8414925008023175
+Gastrocnemius,RP-neg,ST002646,bio_90416015509,Training,4 weeks of training,Female,90416015509,4,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90420015509,Training,4 weeks of training,Female,90420015509,4,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90421015509,Training,1 week of training or control time,Male,90421015509,1,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90422015509,Training,1 week of training or control time,Male,90422015509,1,1.7368111391703462,8.563420593393104
+Gastrocnemius,RP-neg,ST002646,bio_90423015509,Training,1 week of training or control time,Male,90423015509,1,3.3211433725992285,-9.304538433292977
+Gastrocnemius,RP-neg,ST002646,bio_90426015509,Training,1 week of training or control time,Male,90426015509,1,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90430015509,Training,1 week of training or control time,Male,90430015509,1,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90439015509,Training,2 weeks of training,Male,90439015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90441015509,Training,2 weeks of training,Male,90441015509,2,5.820160679880749,7.350312457944133
+Gastrocnemius,RP-neg,ST002646,bio_90444015509,Training,2 weeks of training,Male,90444015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90449015509,Training,2 weeks of training,Male,90449015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90450015509,Training,2 weeks of training,Male,90450015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90559015509,Training,1 week of training or control time,Female,90559015509,1,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90560015509,Training,1 week of training or control time,Female,90560015509,1,3.281314231618257,-7.4256029664483965
+Gastrocnemius,RP-neg,ST002646,bio_90564015509,Training,1 week of training or control time,Female,90564015509,1,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90567015509,Training,1 week of training or control time,Female,90567015509,1,3.1420588999430654,-9.359190097427454
+Gastrocnemius,RP-neg,ST002646,bio_90571015509,Training,1 week of training or control time,Female,90571015509,1,2.2541428054809796,-6.0956987516582375
+Gastrocnemius,RP-neg,ST002646,bio_90576015509,Training,2 weeks of training,Female,90576015509,2,0.9019019293467535,8.466300718879632
+Gastrocnemius,RP-neg,ST002646,bio_90578015509,Training,2 weeks of training,Female,90578015509,2,2.7716185058594025,-8.69962929365598
+Gastrocnemius,RP-neg,ST002646,bio_90581015509,Training,2 weeks of training,Female,90581015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90585015509,Training,2 weeks of training,Female,90585015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,bio_90587015509,Training,2 weeks of training,Female,90587015509,2,0.0,nan
+Gastrocnemius,RP-neg,ST002646,blank_0,Blank,,,blank_0,,0.0,nan
+Gastrocnemius,RP-neg,ST002646,blank_1,Blank,,,blank_1,,3.178696090698274,-2.6281110855545715
+Gastrocnemius,RP-neg,ST002646,blank_2,Blank,,,blank_2,,1.1611655990601013,6.917191964234913
+Gastrocnemius,RP-neg,ST002646,blank_3,Blank,,,blank_3,,3.059950598144562,5.376725119694268
+Gastrocnemius,RP-pos,ST002647,bio_90217015509,Control,8 weeks of training or control time,Male,90217015509,0,7.847807477823906,-8.791120611589317
+Gastrocnemius,RP-pos,ST002647,bio_90218015509,Training,8 weeks of training or control time,Male,90218015509,8,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90222015509,Training,8 weeks of training or control time,Male,90222015509,8,1.9322388465881541,-3.3813226081886274
+Gastrocnemius,RP-pos,ST002647,bio_90223015509,Training,8 weeks of training or control time,Male,90223015509,8,6.841088529968248,-9.283196219214796
+Gastrocnemius,RP-pos,ST002647,bio_90225015509,Training,8 weeks of training or control time,Male,90225015509,8,4.70836906127927,-7.960492663516609
+Gastrocnemius,RP-pos,ST002647,bio_90227015509,Training,8 weeks of training or control time,Male,90227015509,8,7.460395896148599,-7.790752314327529
+Gastrocnemius,RP-pos,ST002647,bio_90229015509,Control,8 weeks of training or control time,Male,90229015509,0,11.098380151240002,-7.6426249162123145
+Gastrocnemius,RP-pos,ST002647,bio_90232015509,Control,8 weeks of training or control time,Male,90232015509,0,5.253322828928682,4.764209704940785
+Gastrocnemius,RP-pos,ST002647,bio_90237015509,Control,8 weeks of training or control time,Male,90237015509,0,10.533837005615128,-8.074764385912392
+Gastrocnemius,RP-pos,ST002647,bio_90239015509,Control,8 weeks of training or control time,Male,90239015509,0,7.019371234130929,0.7077327431947514
+Gastrocnemius,RP-pos,ST002647,bio_90245015509,Control,8 weeks of training or control time,Female,90245015509,0,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90248015509,Control,8 weeks of training or control time,Female,90248015509,0,7.355809943644207,-1.9375781383338055
+Gastrocnemius,RP-pos,ST002647,bio_90251015509,Training,8 weeks of training or control time,Female,90251015509,8,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90252015509,Control,8 weeks of training or control time,Female,90252015509,0,5.31387750244142,6.26116900486293
+Gastrocnemius,RP-pos,ST002647,bio_90254015509,Training,8 weeks of training or control time,Female,90254015509,8,3.8630098147074206,-0.28637091317120117
+Gastrocnemius,RP-pos,ST002647,bio_90258015509,Training,8 weeks of training or control time,Female,90258015509,8,10.94744580574038,-0.2609181697728977
+Gastrocnemius,RP-pos,ST002647,bio_90259015509,Training,8 weeks of training or control time,Female,90259015509,8,1.8238205332438335,-7.537363796504131
+Gastrocnemius,RP-pos,ST002647,bio_90265015509,Control,8 weeks of training or control time,Female,90265015509,0,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90266015509,Control,8 weeks of training or control time,Female,90266015509,0,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90267015509,Training,8 weeks of training or control time,Female,90267015509,8,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90280015509,Training,4 weeks of training,Male,90280015509,4,2.5095393348693937,-7.789247432798676
+Gastrocnemius,RP-pos,ST002647,bio_90281015509,Training,4 weeks of training,Male,90281015509,4,2.7709756189982375,-3.2394170495126513
+Gastrocnemius,RP-pos,ST002647,bio_90283015509,Training,4 weeks of training,Male,90283015509,4,4.455656541697215,-3.7701059348199015
+Gastrocnemius,RP-pos,ST002647,bio_90289015509,Training,4 weeks of training,Male,90289015509,4,1.8149901662190937,9.753468596592246
+Gastrocnemius,RP-pos,ST002647,bio_90292015509,Training,4 weeks of training,Male,90292015509,4,7.663008488718729,6.159759534252328
+Gastrocnemius,RP-pos,ST002647,bio_90406015509,Training,4 weeks of training,Female,90406015509,4,7.914897424570679,9.714702955818495
+Gastrocnemius,RP-pos,ST002647,bio_90410015509,Training,4 weeks of training,Female,90410015509,4,2.110099600728374,2.8552262690648726
+Gastrocnemius,RP-pos,ST002647,bio_90412015509,Training,4 weeks of training,Female,90412015509,4,2.955369936116487,0.9879892927765065
+Gastrocnemius,RP-pos,ST002647,bio_90416015509,Training,4 weeks of training,Female,90416015509,4,7.427246526591011,2.2189142175555014
+Gastrocnemius,RP-pos,ST002647,bio_90420015509,Training,4 weeks of training,Female,90420015509,4,2.558569353485116,3.5915195864477405
+Gastrocnemius,RP-pos,ST002647,bio_90421015509,Training,1 week of training or control time,Male,90421015509,1,3.382741730753524,-7.2467694066078225
+Gastrocnemius,RP-pos,ST002647,bio_90422015509,Training,1 week of training or control time,Male,90422015509,1,8.18093656921386,-8.69236057401248
+Gastrocnemius,RP-pos,ST002647,bio_90423015509,Training,1 week of training or control time,Male,90423015509,1,3.581220549265484,3.4621476788031993
+Gastrocnemius,RP-pos,ST002647,bio_90426015509,Training,1 week of training or control time,Male,90426015509,1,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90430015509,Training,1 week of training or control time,Male,90430015509,1,1.9794746604919102,7.4506060253439665
+Gastrocnemius,RP-pos,ST002647,bio_90439015509,Training,2 weeks of training,Male,90439015509,2,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90441015509,Training,2 weeks of training,Male,90441015509,2,4.680435509490936,6.020471867936767
+Gastrocnemius,RP-pos,ST002647,bio_90444015509,Training,2 weeks of training,Male,90444015509,2,1.7524468938191906,-3.8464572297837036
+Gastrocnemius,RP-pos,ST002647,bio_90449015509,Training,2 weeks of training,Male,90449015509,2,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90450015509,Training,2 weeks of training,Male,90450015509,2,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90559015509,Training,1 week of training or control time,Female,90559015509,1,5.549965369669652,2.6898914672765364
+Gastrocnemius,RP-pos,ST002647,bio_90560015509,Training,1 week of training or control time,Female,90560015509,1,2.7017539881387895,4.9874932420429765
+Gastrocnemius,RP-pos,ST002647,bio_90564015509,Training,1 week of training or control time,Female,90564015509,1,7.049569992319733,-0.03060500203914189
+Gastrocnemius,RP-pos,ST002647,bio_90567015509,Training,1 week of training or control time,Female,90567015509,1,5.910904337565163,2.24523420813631
+Gastrocnemius,RP-pos,ST002647,bio_90571015509,Training,1 week of training or control time,Female,90571015509,1,2.5286803680420173,-4.482176199011739
+Gastrocnemius,RP-pos,ST002647,bio_90576015509,Training,2 weeks of training,Female,90576015509,2,0.0,nan
+Gastrocnemius,RP-pos,ST002647,bio_90578015509,Training,2 weeks of training,Female,90578015509,2,3.400741040039006,-8.246939756204592
+Gastrocnemius,RP-pos,ST002647,bio_90581015509,Training,2 weeks of training,Female,90581015509,2,4.747202623240165,-1.0380845072580216
+Gastrocnemius,RP-pos,ST002647,bio_90585015509,Training,2 weeks of training,Female,90585015509,2,2.264473918660444,2.217304396207565
+Gastrocnemius,RP-pos,ST002647,bio_90587015509,Training,2 weeks of training,Female,90587015509,2,1.8902133857727241,4.901606360491045
+Gastrocnemius,RP-pos,ST002647,blank_0,Blank,,,blank_0,,0.0,nan
+Gastrocnemius,RP-pos,ST002647,blank_1,Blank,,,blank_1,,4.081470625813769,-5.344587110917259
+Gastrocnemius,RP-pos,ST002647,blank_2,Blank,,,blank_2,,0.0,nan
+Gastrocnemius,RP-pos,ST002647,blank_3,Blank,,,blank_3,,0.0,nan
+Heart,RP-neg,ST002916,bio_90217015807,Control,8 weeks of training or control time,Male,90217015807,0,8.767124013265061,8.946532669345105
+Heart,RP-neg,ST002916,bio_90218015807,Training,8 weeks of training or control time,Male,90218015807,8,11.802145930989456,6.711828807232808
+Heart,RP-neg,ST002916,bio_90222015807,Training,8 weeks of training or control time,Male,90222015807,8,18.189809933725794,-3.5285050317898863
+Heart,RP-neg,ST002916,bio_90223015807,Training,8 weeks of training or control time,Male,90223015807,8,5.731745103200314,-0.7554868166020214
+Heart,RP-neg,ST002916,bio_90225015807,Training,8 weeks of training or control time,Male,90225015807,8,2.5965453435262136,-1.680467449183504
+Heart,RP-neg,ST002916,bio_90227015807,Training,8 weeks of training or control time,Male,90227015807,8,10.235666815439885,-7.898123201160841
+Heart,RP-neg,ST002916,bio_90229015807,Control,8 weeks of training or control time,Male,90229015807,0,8.969556945673675,-6.505681538391487
+Heart,RP-neg,ST002916,bio_90232015807,Control,8 weeks of training or control time,Male,90232015807,0,4.582534094238327,-6.0296424748515145
+Heart,RP-neg,ST002916,bio_90237015807,Control,8 weeks of training or control time,Male,90237015807,0,2.4353191027323486,8.727772468798296
+Heart,RP-neg,ST002916,bio_90239015807,Control,8 weeks of training or control time,Male,90239015807,0,3.5355830693562234,7.32349617030966
+Heart,RP-neg,ST002916,bio_90245015807,Control,8 weeks of training or control time,Female,90245015807,0,9.295241955057815,-8.24712579183031
+Heart,RP-neg,ST002916,bio_90248015807,Control,8 weeks of training or control time,Female,90248015807,0,8.180926169331798,3.101384396246238
+Heart,RP-neg,ST002916,bio_90251015807,Training,8 weeks of training or control time,Female,90251015807,8,4.096709848531129,9.279985644566194
+Heart,RP-neg,ST002916,bio_90252015807,Control,8 weeks of training or control time,Female,90252015807,0,6.168090807596815,-7.656630443021776
+Heart,RP-neg,ST002916,bio_90254015807,Training,8 weeks of training or control time,Female,90254015807,8,10.221047052002037,8.014982503089419
+Heart,RP-neg,ST002916,bio_90258015807,Training,8 weeks of training or control time,Female,90258015807,8,2.102389019266785,1.575172084155535
+Heart,RP-neg,ST002916,bio_90259015807,Training,8 weeks of training or control time,Female,90259015807,8,0.0,nan
+Heart,RP-neg,ST002916,bio_90265015807,Control,8 weeks of training or control time,Female,90265015807,0,3.80491823806764,-6.483004646786485
+Heart,RP-neg,ST002916,bio_90266015807,Control,8 weeks of training or control time,Female,90266015807,0,2.766305869547554,-5.245972553185038
+Heart,RP-neg,ST002916,bio_90267015807,Training,8 weeks of training or control time,Female,90267015807,8,10.836098239135715,1.045610699646966
+Heart,RP-neg,ST002916,bio_90280015807,Training,4 weeks of training,Male,90280015807,4,8.529722494252457,-0.17182403570211796
+Heart,RP-neg,ST002916,bio_90281015807,Training,4 weeks of training,Male,90281015807,4,8.61744863230392,-7.871282204788608
+Heart,RP-neg,ST002916,bio_90283015807,Training,4 weeks of training,Male,90283015807,4,6.531372898864637,-2.1495932562497386
+Heart,RP-neg,ST002916,bio_90289015807,Training,4 weeks of training,Male,90289015807,4,2.015818072509732,9.228735085034963
+Heart,RP-neg,ST002916,bio_90292015807,Training,4 weeks of training,Male,90292015807,4,5.44717301432288,3.154631807497562
+Heart,RP-neg,ST002916,bio_90406015807,Training,4 weeks of training,Female,90406015807,4,5.772132398986809,-5.862513641892694
+Heart,RP-neg,ST002916,bio_90410015807,Training,4 weeks of training,Female,90410015807,4,5.917891576131244,-8.137105670964079
+Heart,RP-neg,ST002916,bio_90412015807,Training,4 weeks of training,Female,90412015807,4,9.295359147898266,0.14559791768354044
+Heart,RP-neg,ST002916,bio_90416015807,Training,4 weeks of training,Female,90416015807,4,2.492953066508,-9.246113831097277
+Heart,RP-neg,ST002916,bio_90420015807,Training,4 weeks of training,Female,90420015807,4,0.0,nan
+Heart,RP-neg,ST002916,bio_90421015807,Training,1 week of training or control time,Male,90421015807,1,0.0,nan
+Heart,RP-neg,ST002916,bio_90422015807,Training,1 week of training or control time,Male,90422015807,1,0.0,nan
+Heart,RP-neg,ST002916,bio_90423015807,Training,1 week of training or control time,Male,90423015807,1,0.0,nan
+Heart,RP-neg,ST002916,bio_90426015807,Training,1 week of training or control time,Male,90426015807,1,12.218198206075018,-1.1483958338824765
+Heart,RP-neg,ST002916,bio_90430015807,Training,1 week of training or control time,Male,90430015807,1,4.191776530202244,-2.5793909031347897
+Heart,RP-neg,ST002916,bio_90439015807,Training,2 weeks of training,Male,90439015807,2,10.137542559814555,2.5652872354359335
+Heart,RP-neg,ST002916,bio_90441015807,Training,2 weeks of training,Male,90441015807,2,4.860091930643702,2.5555558474421143
+Heart,RP-neg,ST002916,bio_90444015807,Training,2 weeks of training,Male,90444015807,2,2.7830178822834823,-4.816073433262326
+Heart,RP-neg,ST002916,bio_90449015807,Training,2 weeks of training,Male,90449015807,2,5.853607074483181,8.431122307839521
+Heart,RP-neg,ST002916,bio_90450015807,Training,2 weeks of training,Male,90450015807,2,11.161375545756018,-1.6471965617272089
+Heart,RP-neg,ST002916,bio_90559015807,Training,1 week of training or control time,Female,90559015807,1,11.072920608011913,1.601021514005938
+Heart,RP-neg,ST002916,bio_90560015807,Training,1 week of training or control time,Female,90560015807,1,14.482239379374176,-6.091857459657872
+Heart,RP-neg,ST002916,bio_90564015807,Training,1 week of training or control time,Female,90564015807,1,0.0,nan
+Heart,RP-neg,ST002916,bio_90567015807,Training,1 week of training or control time,Female,90567015807,1,15.173866178385468,1.4769655728057223
+Heart,RP-neg,ST002916,bio_90571015807,Training,1 week of training or control time,Female,90571015807,1,0.0,nan
+Heart,RP-neg,ST002916,bio_90576015807,Training,2 weeks of training,Female,90576015807,2,16.35044117787675,3.5355713035476763
+Heart,RP-neg,ST002916,bio_90578015807,Training,2 weeks of training,Female,90578015807,2,4.5695725509642795,-2.5942845257325686
+Heart,RP-neg,ST002916,bio_90581015807,Training,2 weeks of training,Female,90581015807,2,6.639882835642506,-4.3681184404804965
+Heart,RP-neg,ST002916,bio_90585015807,Training,2 weeks of training,Female,90585015807,2,6.381009961446191,6.856847164829161
+Heart,RP-neg,ST002916,bio_90587015807,Training,2 weeks of training,Female,90587015807,2,3.558358725992874,-6.711349988732414
+Heart,RP-neg,ST002916,blank_0,Blank,,,blank_0,,2.7267755610147657,-1.99407986716552
+Heart,RP-neg,ST002916,blank_1,Blank,,,blank_1,,0.0,nan
+Heart,RP-neg,ST002916,blank_2,Blank,,,blank_2,,0.0,nan
+Heart,RP-neg,ST002916,blank_3,Blank,,,blank_3,,0.0,nan
+Heart,RP-neg,ST002916,blank_4,Blank,,,blank_4,,0.0,nan
+Heart,RP-pos,ST002653,bio_90217015807,Control,8 weeks of training or control time,Male,90217015807,0,2.0459242383320784,-7.566408692994152
+Heart,RP-pos,ST002653,bio_90218015807,Training,8 weeks of training or control time,Male,90218015807,8,8.960046529897081,-9.553704596802385
+Heart,RP-pos,ST002653,bio_90222015807,Training,8 weeks of training or control time,Male,90222015807,8,3.531184129333437,-3.8609182831316917
+Heart,RP-pos,ST002653,bio_90223015807,Training,8 weeks of training or control time,Male,90223015807,8,3.211777480061881,-1.1721354293961586
+Heart,RP-pos,ST002653,bio_90225015807,Training,8 weeks of training or control time,Male,90225015807,8,7.865768790562956,-5.568217018057358
+Heart,RP-pos,ST002653,bio_90227015807,Training,8 weeks of training or control time,Male,90227015807,8,0.0,nan
+Heart,RP-pos,ST002653,bio_90229015807,Control,8 weeks of training or control time,Male,90229015807,0,3.203143811543789,5.101579211946917
+Heart,RP-pos,ST002653,bio_90232015807,Control,8 weeks of training or control time,Male,90232015807,0,4.0477081896464435,5.71219185532186
+Heart,RP-pos,ST002653,bio_90237015807,Control,8 weeks of training or control time,Male,90237015807,0,1.0848757659911927,-7.264092086758748
+Heart,RP-pos,ST002653,bio_90239015807,Control,8 weeks of training or control time,Male,90239015807,0,3.9375377171834103,-8.01317284970538
+Heart,RP-pos,ST002653,bio_90245015807,Control,8 weeks of training or control time,Female,90245015807,0,0.0,nan
+Heart,RP-pos,ST002653,bio_90248015807,Control,8 weeks of training or control time,Female,90248015807,0,1.79816073239645,1.5889170097503498
+Heart,RP-pos,ST002653,bio_90251015807,Training,8 weeks of training or control time,Female,90251015807,8,2.3640301645914796,-6.282208035572126
+Heart,RP-pos,ST002653,bio_90252015807,Control,8 weeks of training or control time,Female,90252015807,0,3.3781463460286485,3.8727572513011053
+Heart,RP-pos,ST002653,bio_90254015807,Training,8 weeks of training or control time,Female,90254015807,8,5.813693905131,-7.495020469926333
+Heart,RP-pos,ST002653,bio_90258015807,Training,8 weeks of training or control time,Female,90258015807,8,2.43027396062216,-6.3385620086378305
+Heart,RP-pos,ST002653,bio_90259015807,Training,8 weeks of training or control time,Female,90259015807,8,5.734397863260851,4.452220478009529
+Heart,RP-pos,ST002653,bio_90265015807,Control,8 weeks of training or control time,Female,90265015807,0,3.9125812159220343,1.5183036376458237
+Heart,RP-pos,ST002653,bio_90266015807,Control,8 weeks of training or control time,Female,90266015807,0,4.137644330596912,-5.2578927537743
+Heart,RP-pos,ST002653,bio_90267015807,Training,8 weeks of training or control time,Female,90267015807,8,4.702408763122653,-7.549489056232328
+Heart,RP-pos,ST002653,bio_90280015807,Training,4 weeks of training,Male,90280015807,4,2.1330552047729134,4.291829508493835
+Heart,RP-pos,ST002653,bio_90281015807,Training,4 weeks of training,Male,90281015807,4,6.572870129013051,2.2629689965000206
+Heart,RP-pos,ST002653,bio_90283015807,Training,4 weeks of training,Male,90283015807,4,2.1457624359131073,-1.4242163123245473
+Heart,RP-pos,ST002653,bio_90289015807,Training,4 weeks of training,Male,90289015807,4,2.962416311136911,-5.444497782366548
+Heart,RP-pos,ST002653,bio_90292015807,Training,4 weeks of training,Male,90292015807,4,4.296211879984581,-3.488454757423466
+Heart,RP-pos,ST002653,bio_90406015807,Training,4 weeks of training,Female,90406015807,4,0.0,nan
+Heart,RP-pos,ST002653,bio_90410015807,Training,4 weeks of training,Female,90410015807,4,2.508205957031275,2.3767538467168436
+Heart,RP-pos,ST002653,bio_90412015807,Training,4 weeks of training,Female,90412015807,4,0.0,nan
+Heart,RP-pos,ST002653,bio_90416015807,Training,4 weeks of training,Female,90416015807,4,1.696497716776547,3.177698329801988
+Heart,RP-pos,ST002653,bio_90420015807,Training,4 weeks of training,Female,90420015807,4,3.8536319913228603,-5.07420551397614
+Heart,RP-pos,ST002653,bio_90421015807,Training,1 week of training or control time,Male,90421015807,1,2.407699619038924,-0.913543938882858
+Heart,RP-pos,ST002653,bio_90422015807,Training,1 week of training or control time,Male,90422015807,1,2.1877023646037,-2.1837112273590353
+Heart,RP-pos,ST002653,bio_90423015807,Training,1 week of training or control time,Male,90423015807,1,0.0,nan
+Heart,RP-pos,ST002653,bio_90426015807,Training,1 week of training or control time,Male,90426015807,1,2.934920905558219,7.917877221774971
+Heart,RP-pos,ST002653,bio_90430015807,Training,1 week of training or control time,Male,90430015807,1,0.0,nan
+Heart,RP-pos,ST002653,bio_90439015807,Training,2 weeks of training,Male,90439015807,2,15.93651307411202,-8.779414302319609
+Heart,RP-pos,ST002653,bio_90441015807,Training,2 weeks of training,Male,90441015807,2,5.7523133669535635,4.298868202516702
+Heart,RP-pos,ST002653,bio_90444015807,Training,2 weeks of training,Male,90444015807,2,6.918961849466903,5.868933408969826
+Heart,RP-pos,ST002653,bio_90449015807,Training,2 weeks of training,Male,90449015807,2,0.0,nan
+Heart,RP-pos,ST002653,bio_90450015807,Training,2 weeks of training,Male,90450015807,2,4.964063930002879,-4.142870594061594
+Heart,RP-pos,ST002653,bio_90559015807,Training,1 week of training or control time,Female,90559015807,1,1.8311377264658673,-8.827643161492036
+Heart,RP-pos,ST002653,bio_90560015807,Training,1 week of training or control time,Female,90560015807,1,3.7885238338469827,-8.908731879272217
+Heart,RP-pos,ST002653,bio_90564015807,Training,1 week of training or control time,Female,90564015807,1,4.312687093098886,-5.732581331289973
+Heart,RP-pos,ST002653,bio_90567015807,Training,1 week of training or control time,Female,90567015807,1,3.6565513314564297,4.38006948611285
+Heart,RP-pos,ST002653,bio_90571015807,Training,1 week of training or control time,Female,90571015807,1,2.0120126543681027,7.827804149929264
+Heart,RP-pos,ST002653,bio_90576015807,Training,2 weeks of training,Female,90576015807,2,5.232663521321586,1.9910978873597027
+Heart,RP-pos,ST002653,bio_90578015807,Training,2 weeks of training,Female,90578015807,2,6.524351015981104,9.178365133371823
+Heart,RP-pos,ST002653,bio_90581015807,Training,2 weeks of training,Female,90581015807,2,10.855738299560587,0.03974059083844758
+Heart,RP-pos,ST002653,bio_90585015807,Training,2 weeks of training,Female,90585015807,2,6.306524617767285,6.386021623425253
+Heart,RP-pos,ST002653,bio_90587015807,Training,2 weeks of training,Female,90587015807,2,15.601738766733828,-8.364147481791044
+Heart,RP-pos,ST002653,blank_0,Blank,,,blank_0,,0.0,nan
+Heart,RP-pos,ST002653,blank_1,Blank,,,blank_1,,2.076826486969001,8.811209274161133
+Heart,RP-pos,ST002653,blank_2,Blank,,,blank_2,,1.7190389849345062,2.5821148170991695
+Heart,RP-pos,ST002653,blank_3,Blank,,,blank_3,,0.0,nan
+Heart,RP-pos,ST002653,blank_4,Blank,,,blank_4,,0.0,nan
+Hippocampus,RP-neg,ST002638,bio_90217015206,Control,8 weeks of training or control time,Male,90217015206,0,47.34764597473138,-1.612762281922675
+Hippocampus,RP-neg,ST002638,bio_90218015206,Training,8 weeks of training or control time,Male,90218015206,8,34.841041006469666,1.3731334675343483
+Hippocampus,RP-neg,ST002638,bio_90222015206,Training,8 weeks of training or control time,Male,90222015206,8,53.013444332885776,-3.159526489388345
+Hippocampus,RP-neg,ST002638,bio_90223015206,Training,8 weeks of training or control time,Male,90223015206,8,45.56876779632567,2.141776635442461
+Hippocampus,RP-neg,ST002638,bio_90225015206,Training,8 weeks of training or control time,Male,90225015206,8,43.778177872594256,-2.329375870807799
+Hippocampus,RP-neg,ST002638,bio_90227015206,Training,8 weeks of training or control time,Male,90227015206,8,45.52561835683183,-4.118394026608812
+Hippocampus,RP-neg,ST002638,bio_90229015206,Control,8 weeks of training or control time,Male,90229015206,0,48.65852125854492,-7.585444191892877
+Hippocampus,RP-neg,ST002638,bio_90232015206,Control,8 weeks of training or control time,Male,90232015206,0,35.11134444681815,-5.918087640411362
+Hippocampus,RP-neg,ST002638,bio_90237015206,Control,8 weeks of training or control time,Male,90237015206,0,51.920225388081825,-2.3910029212812947
+Hippocampus,RP-neg,ST002638,bio_90239015206,Control,8 weeks of training or control time,Male,90239015206,0,41.7016398709615,2.2266998699807647
+Hippocampus,RP-neg,ST002638,bio_90245015206,Control,8 weeks of training or control time,Female,90245015206,0,52.95670900675444,-3.725070988514621
+Hippocampus,RP-neg,ST002638,bio_90248015206,Control,8 weeks of training or control time,Female,90248015206,0,45.52483816172277,2.0269529025319204
+Hippocampus,RP-neg,ST002638,bio_90251015206,Training,8 weeks of training or control time,Female,90251015206,8,30.541179163614927,-5.015626030283318
+Hippocampus,RP-neg,ST002638,bio_90252015206,Control,8 weeks of training or control time,Female,90252015206,0,38.47006170399993,-4.542823435431815
+Hippocampus,RP-neg,ST002638,bio_90254015206,Training,8 weeks of training or control time,Female,90254015206,8,37.082665610758596,-4.347182443473342
+Hippocampus,RP-neg,ST002638,bio_90258015206,Training,8 weeks of training or control time,Female,90258015206,8,30.556059022521836,1.5712373086171383
+Hippocampus,RP-neg,ST002638,bio_90259015206,Training,8 weeks of training or control time,Female,90259015206,8,29.806040449015338,-0.5859518590392992
+Hippocampus,RP-neg,ST002638,bio_90265015206,Control,8 weeks of training or control time,Female,90265015206,0,49.29705612386061,1.4450971906235857
+Hippocampus,RP-neg,ST002638,bio_90266015206,Control,8 weeks of training or control time,Female,90266015206,0,34.07379005508443,2.4400733298644672
+Hippocampus,RP-neg,ST002638,bio_90267015206,Training,8 weeks of training or control time,Female,90267015206,8,39.899693607584624,3.4705574433033672
+Hippocampus,RP-neg,ST002638,bio_90280015206,Training,4 weeks of training,Male,90280015206,4,49.24227496490488,-4.308709977638789
+Hippocampus,RP-neg,ST002638,bio_90281015206,Training,4 weeks of training,Male,90281015206,4,45.03844450556451,-8.59373880390198
+Hippocampus,RP-neg,ST002638,bio_90283015206,Training,4 weeks of training,Male,90283015206,4,50.62809969991024,2.749061388936713
+Hippocampus,RP-neg,ST002638,bio_90289015206,Training,4 weeks of training,Male,90289015206,4,56.5052724009195,-2.561340348583183
+Hippocampus,RP-neg,ST002638,bio_90292015206,Training,4 weeks of training,Male,90292015206,4,42.2974161707561,-2.7244716021104423
+Hippocampus,RP-neg,ST002638,bio_90410015206,Training,4 weeks of training,Female,90410015206,4,40.82654991505934,3.882748635983077
+Hippocampus,RP-neg,ST002638,bio_90412015206,Training,4 weeks of training,Female,90412015206,4,30.33502434450788,-2.4866664265557437
+Hippocampus,RP-neg,ST002638,bio_90416015206,Training,4 weeks of training,Female,90416015206,4,28.52353228403724,-1.5453071442150856
+Hippocampus,RP-neg,ST002638,bio_90420015206,Training,4 weeks of training,Female,90420015206,4,30.557881011199793,-1.9236911545016102
+Hippocampus,RP-neg,ST002638,bio_90421015206,Training,1 week of training or control time,Male,90421015206,1,55.450455720011405,4.23940487885817
+Hippocampus,RP-neg,ST002638,bio_90422015206,Training,1 week of training or control time,Male,90422015206,1,49.27600762430824,-7.941989777423262
+Hippocampus,RP-neg,ST002638,bio_90423015206,Training,1 week of training or control time,Male,90423015206,1,50.89783502705921,-2.6493667866624055
+Hippocampus,RP-neg,ST002638,bio_90426015206,Training,1 week of training or control time,Male,90426015206,1,35.705730513000496,0.8641686556508914
+Hippocampus,RP-neg,ST002638,bio_90430015206,Training,1 week of training or control time,Male,90430015206,1,42.98190933456416,5.241727371133995
+Hippocampus,RP-neg,ST002638,bio_90439015206,Training,2 weeks of training,Male,90439015206,2,51.53665187886545,-0.36695153157534777
+Hippocampus,RP-neg,ST002638,bio_90441015206,Training,2 weeks of training,Male,90441015206,2,44.68557614084877,-1.8783809743587225
+Hippocampus,RP-neg,ST002638,bio_90444015206,Training,2 weeks of training,Male,90444015206,2,47.16857916056304,-8.821981517127506
+Hippocampus,RP-neg,ST002638,bio_90449015206,Training,2 weeks of training,Male,90449015206,2,44.18798602498378,3.482275344712863
+Hippocampus,RP-neg,ST002638,bio_90450015206,Training,2 weeks of training,Male,90450015206,2,33.70526804250075,-1.702123653469286
+Hippocampus,RP-neg,ST002638,bio_90559015206,Training,1 week of training or control time,Female,90559015206,1,36.7935569310506,5.796642521833176
+Hippocampus,RP-neg,ST002638,bio_90560015206,Training,1 week of training or control time,Female,90560015206,1,56.257966022745684,0.7842211255126369
+Hippocampus,RP-neg,ST002638,bio_90564015206,Training,1 week of training or control time,Female,90564015206,1,53.96188840243036,-4.182093544281428
+Hippocampus,RP-neg,ST002638,bio_90567015206,Training,1 week of training or control time,Female,90567015206,1,32.862104037475476,-1.9794759839818634
+Hippocampus,RP-neg,ST002638,bio_90571015206,Training,1 week of training or control time,Female,90571015206,1,34.286296553039534,-3.078302694739326
+Hippocampus,RP-neg,ST002638,bio_90576015206,Training,2 weeks of training,Female,90576015206,2,61.646861975606235,-4.181983310205525
+Hippocampus,RP-neg,ST002638,bio_90578015206,Training,2 weeks of training,Female,90578015206,2,36.77969831568402,-0.10627233828637718
+Hippocampus,RP-neg,ST002638,bio_90581015206,Training,2 weeks of training,Female,90581015206,2,47.17326834716822,-5.84235574163686
+Hippocampus,RP-neg,ST002638,bio_90585015206,Training,2 weeks of training,Female,90585015206,2,41.090086828104695,-1.7765973681487315
+Hippocampus,RP-neg,ST002638,bio_90587015206,Training,2 weeks of training,Female,90587015206,2,39.1068542966208,2.5422226628326063
+Hippocampus,RP-neg,ST002638,blank_0,Blank,,,blank_0,,0.0,nan
+Hippocampus,RP-neg,ST002638,blank_1,Blank,,,blank_1,,0.0,nan
+Hippocampus,RP-neg,ST002638,blank_2,Blank,,,blank_2,,0.0,nan
+Hippocampus,RP-neg,ST002638,blank_3,Blank,,,blank_3,,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90217015206,Control,8 weeks of training or control time,Male,90217015206,0,18.57826684773766,4.071817980507526
+Hippocampus,RP-pos,ST002639,bio_90218015206,Training,8 weeks of training or control time,Male,90218015206,8,4.863815369923958,-1.8226440243170376
+Hippocampus,RP-pos,ST002639,bio_90222015206,Training,8 weeks of training or control time,Male,90222015206,8,9.26158421173094,5.237387909417264
+Hippocampus,RP-pos,ST002639,bio_90223015206,Training,8 weeks of training or control time,Male,90223015206,8,3.655901896158793,-5.394894999493071
+Hippocampus,RP-pos,ST002639,bio_90225015206,Training,8 weeks of training or control time,Male,90225015206,8,9.73348282750444,-0.8006118869430963
+Hippocampus,RP-pos,ST002639,bio_90227015206,Training,8 weeks of training or control time,Male,90227015206,8,15.506572332763646,1.2636368717770798
+Hippocampus,RP-pos,ST002639,bio_90229015206,Control,8 weeks of training or control time,Male,90229015206,0,5.119352960968035,-6.9037698737122435
+Hippocampus,RP-pos,ST002639,bio_90232015206,Control,8 weeks of training or control time,Male,90232015206,0,4.852521956888883,-9.418522148636079
+Hippocampus,RP-pos,ST002639,bio_90237015206,Control,8 weeks of training or control time,Male,90237015206,0,2.892885449473073,0.8280375429859089
+Hippocampus,RP-pos,ST002639,bio_90239015206,Control,8 weeks of training or control time,Male,90239015206,0,7.322607789230309,4.054712639835449
+Hippocampus,RP-pos,ST002639,bio_90245015206,Control,8 weeks of training or control time,Female,90245015206,0,3.689486965688043,-6.777722226177552
+Hippocampus,RP-pos,ST002639,bio_90248015206,Control,8 weeks of training or control time,Female,90248015206,0,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90251015206,Training,8 weeks of training or control time,Female,90251015206,8,7.442063380940748,-4.350102668931853
+Hippocampus,RP-pos,ST002639,bio_90252015206,Control,8 weeks of training or control time,Female,90252015206,0,4.666482732645651,-1.7132988558583542
+Hippocampus,RP-pos,ST002639,bio_90254015206,Training,8 weeks of training or control time,Female,90254015206,8,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90258015206,Training,8 weeks of training or control time,Female,90258015206,8,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90259015206,Training,8 weeks of training or control time,Female,90259015206,8,3.7868208689372125,-9.444811675694112
+Hippocampus,RP-pos,ST002639,bio_90265015206,Control,8 weeks of training or control time,Female,90265015206,0,6.184144705200189,-2.4043674489431286
+Hippocampus,RP-pos,ST002639,bio_90266015206,Control,8 weeks of training or control time,Female,90266015206,0,4.965831971740699,5.0039447551812
+Hippocampus,RP-pos,ST002639,bio_90267015206,Training,8 weeks of training or control time,Female,90267015206,8,4.372764527638751,2.0623688160828673
+Hippocampus,RP-pos,ST002639,bio_90280015206,Training,4 weeks of training,Male,90280015206,4,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90281015206,Training,4 weeks of training,Male,90281015206,4,5.9922461496987935,-1.0981103595077852
+Hippocampus,RP-pos,ST002639,bio_90283015206,Training,4 weeks of training,Male,90283015206,4,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90289015206,Training,4 weeks of training,Male,90289015206,4,3.152016666666614,-4.334201460610751
+Hippocampus,RP-pos,ST002639,bio_90292015206,Training,4 weeks of training,Male,90292015206,4,8.644961169179238,-5.12625404636768
+Hippocampus,RP-pos,ST002639,bio_90410015206,Training,4 weeks of training,Female,90410015206,4,11.239098105367013,-1.4084546809456857
+Hippocampus,RP-pos,ST002639,bio_90412015206,Training,4 weeks of training,Female,90412015206,4,5.985906874084373,-0.8418939301480136
+Hippocampus,RP-pos,ST002639,bio_90416015206,Training,4 weeks of training,Female,90416015206,4,9.475566552734382,-3.511980584201768
+Hippocampus,RP-pos,ST002639,bio_90420015206,Training,4 weeks of training,Female,90420015206,4,4.925290632883626,-5.398692493126671
+Hippocampus,RP-pos,ST002639,bio_90421015206,Training,1 week of training or control time,Male,90421015206,1,9.313187747700944,-9.205051266817735
+Hippocampus,RP-pos,ST002639,bio_90422015206,Training,1 week of training or control time,Male,90422015206,1,2.0625571909586795,7.960673369729898
+Hippocampus,RP-pos,ST002639,bio_90423015206,Training,1 week of training or control time,Male,90423015206,1,6.366787309010865,5.582860597339435
+Hippocampus,RP-pos,ST002639,bio_90426015206,Training,1 week of training or control time,Male,90426015206,1,2.0025915489196313,-8.22565444177264
+Hippocampus,RP-pos,ST002639,bio_90430015206,Training,1 week of training or control time,Male,90430015206,1,9.951570847574903,-2.7352681951389552
+Hippocampus,RP-pos,ST002639,bio_90439015206,Training,2 weeks of training,Male,90439015206,2,10.281168509928403,7.58558983818297
+Hippocampus,RP-pos,ST002639,bio_90441015206,Training,2 weeks of training,Male,90441015206,2,4.879850359090144,-8.034106117215101
+Hippocampus,RP-pos,ST002639,bio_90444015206,Training,2 weeks of training,Male,90444015206,2,7.788179656982432,-7.512585717248565
+Hippocampus,RP-pos,ST002639,bio_90449015206,Training,2 weeks of training,Male,90449015206,2,6.078743746948204,7.783519725561919
+Hippocampus,RP-pos,ST002639,bio_90450015206,Training,2 weeks of training,Male,90450015206,2,2.8478984405517105,-8.754997338749007
+Hippocampus,RP-pos,ST002639,bio_90559015206,Training,1 week of training or control time,Female,90559015206,1,2.7831757486978703,0.25557666935989726
+Hippocampus,RP-pos,ST002639,bio_90560015206,Training,1 week of training or control time,Female,90560015206,1,2.2000509699503215,-8.542905007461338
+Hippocampus,RP-pos,ST002639,bio_90564015206,Training,1 week of training or control time,Female,90564015206,1,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90567015206,Training,1 week of training or control time,Female,90567015206,1,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90571015206,Training,1 week of training or control time,Female,90571015206,1,6.3283843546549114,-9.982053155972956
+Hippocampus,RP-pos,ST002639,bio_90576015206,Training,2 weeks of training,Female,90576015206,2,10.82176427968347,-9.02487476846451
+Hippocampus,RP-pos,ST002639,bio_90578015206,Training,2 weeks of training,Female,90578015206,2,1.1810454729715787,-2.5674841466741407
+Hippocampus,RP-pos,ST002639,bio_90581015206,Training,2 weeks of training,Female,90581015206,2,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90585015206,Training,2 weeks of training,Female,90585015206,2,0.0,nan
+Hippocampus,RP-pos,ST002639,bio_90587015206,Training,2 weeks of training,Female,90587015206,2,3.2303793212890084,7.165506609883529
+Hippocampus,RP-pos,ST002639,blank_0,Blank,,,blank_0,,0.0,nan
+Hippocampus,RP-pos,ST002639,blank_1,Blank,,,blank_1,,0.0,nan
+Hippocampus,RP-pos,ST002639,blank_2,Blank,,,blank_2,,0.0,nan
+Hippocampus,RP-pos,ST002639,blank_3,Blank,,,blank_3,,0.0,nan
+Kidney,RP-neg,ST002915,bio_90217015906,Control,8 weeks of training or control time,Male,90217015906,0,6.649275252787239,-4.801314357656872
+Kidney,RP-neg,ST002915,bio_90218015906,Training,8 weeks of training or control time,Male,90218015906,8,6.073613962809189,-5.38940280466486
+Kidney,RP-neg,ST002915,bio_90222015906,Training,8 weeks of training or control time,Male,90222015906,8,3.0308011484782202,1.9609644516617863
+Kidney,RP-neg,ST002915,bio_90223015906,Training,8 weeks of training or control time,Male,90223015906,8,3.5208983904519853,3.723524751941093
+Kidney,RP-neg,ST002915,bio_90225015906,Training,8 weeks of training or control time,Male,90225015906,8,15.004393558756327,-8.920048029551667
+Kidney,RP-neg,ST002915,bio_90227015906,Training,8 weeks of training or control time,Male,90227015906,8,12.33261972249348,-3.866501125035594
+Kidney,RP-neg,ST002915,bio_90229015906,Control,8 weeks of training or control time,Male,90229015906,0,2.98104815419516,4.198927737812905
+Kidney,RP-neg,ST002915,bio_90232015906,Control,8 weeks of training or control time,Male,90232015906,0,22.16975543975831,3.5129836673672474
+Kidney,RP-neg,ST002915,bio_90237015906,Control,8 weeks of training or control time,Male,90237015906,0,9.734550736999466,2.1768687332336425
+Kidney,RP-neg,ST002915,bio_90239015906,Control,8 weeks of training or control time,Male,90239015906,0,6.8047089508055505,-0.7814708171603214
+Kidney,RP-neg,ST002915,bio_90245015906,Control,8 weeks of training or control time,Female,90245015906,0,8.912285226949146,-7.672909870676195
+Kidney,RP-neg,ST002915,bio_90248015906,Control,8 weeks of training or control time,Female,90248015906,0,4.07442885691329,2.6181481872215113
+Kidney,RP-neg,ST002915,bio_90251015906,Training,8 weeks of training or control time,Female,90251015906,8,0.0,nan
+Kidney,RP-neg,ST002915,bio_90252015906,Control,8 weeks of training or control time,Female,90252015906,0,6.264272189585322,-3.781923688830798
+Kidney,RP-neg,ST002915,bio_90254015906,Training,8 weeks of training or control time,Female,90254015906,8,7.135415738932303,-6.648374750795866
+Kidney,RP-neg,ST002915,bio_90258015906,Training,8 weeks of training or control time,Female,90258015906,8,3.204934910074816,0.4370605531254132
+Kidney,RP-neg,ST002915,bio_90259015906,Training,8 weeks of training or control time,Female,90259015906,8,2.1485839808146374,2.2738697715393443
+Kidney,RP-neg,ST002915,bio_90265015906,Control,8 weeks of training or control time,Female,90265015906,0,2.455842276509562,-5.175649830005613
+Kidney,RP-neg,ST002915,bio_90266015906,Control,8 weeks of training or control time,Female,90266015906,0,5.353559499613435,4.120515113019675
+Kidney,RP-neg,ST002915,bio_90267015906,Training,8 weeks of training or control time,Female,90267015906,8,8.358995170084611,-6.490841384177999
+Kidney,RP-neg,ST002915,bio_90280015906,Training,4 weeks of training,Male,90280015906,4,4.24210925776168,6.334340841353882
+Kidney,RP-neg,ST002915,bio_90281015906,Training,4 weeks of training,Male,90281015906,4,2.1399536117553355,5.193314998070667
+Kidney,RP-neg,ST002915,bio_90283015906,Training,4 weeks of training,Male,90283015906,4,7.6548876118978635,7.846713464028495
+Kidney,RP-neg,ST002915,bio_90289015906,Training,4 weeks of training,Male,90289015906,4,3.0364663192748518,2.1503298966146343
+Kidney,RP-neg,ST002915,bio_90292015906,Training,4 weeks of training,Male,90292015906,4,0.0,nan
+Kidney,RP-neg,ST002915,bio_90406015906,Training,4 weeks of training,Female,90406015906,4,4.892413429260239,1.3776618855152765
+Kidney,RP-neg,ST002915,bio_90410015906,Training,4 weeks of training,Female,90410015906,4,2.8839363947550556,-7.445124438358589
+Kidney,RP-neg,ST002915,bio_90412015906,Training,4 weeks of training,Female,90412015906,4,8.816113870239265,-2.180988211311849
+Kidney,RP-neg,ST002915,bio_90416015906,Training,4 weeks of training,Female,90416015906,4,4.927591684850047,-3.0888444189398827
+Kidney,RP-neg,ST002915,bio_90420015906,Training,4 weeks of training,Female,90420015906,4,3.198934971109973,-6.913566803686871
+Kidney,RP-neg,ST002915,bio_90421015906,Training,1 week of training or control time,Male,90421015906,1,6.295796107482973,-9.632174297617569
+Kidney,RP-neg,ST002915,bio_90422015906,Training,1 week of training or control time,Male,90422015906,1,14.531947857157418,4.969715614889014
+Kidney,RP-neg,ST002915,bio_90423015906,Training,1 week of training or control time,Male,90423015906,1,9.062673037211082,-6.265919920045252
+Kidney,RP-neg,ST002915,bio_90426015906,Training,1 week of training or control time,Male,90426015906,1,11.62364158732095,-4.489720636928718
+Kidney,RP-neg,ST002915,bio_90430015906,Training,1 week of training or control time,Male,90430015906,1,10.701530985005803,-8.258612338917736
+Kidney,RP-neg,ST002915,bio_90439015906,Training,2 weeks of training,Male,90439015906,2,2.28319479420976,-1.3508302486082542
+Kidney,RP-neg,ST002915,bio_90441015906,Training,2 weeks of training,Male,90441015906,2,15.907552645365456,-5.922458363556208
+Kidney,RP-neg,ST002915,bio_90444015906,Training,2 weeks of training,Male,90444015906,2,10.888997813161179,9.666719326860278
+Kidney,RP-neg,ST002915,bio_90449015906,Training,2 weeks of training,Male,90449015906,2,2.5167500325520415,-2.5560920709915194
+Kidney,RP-neg,ST002915,bio_90450015906,Training,2 weeks of training,Male,90450015906,2,10.115905597178212,1.5132367483287548
+Kidney,RP-neg,ST002915,bio_90559015906,Training,1 week of training or control time,Female,90559015906,1,0.0,nan
+Kidney,RP-neg,ST002915,bio_90560015906,Training,1 week of training or control time,Female,90560015906,1,0.0,nan
+Kidney,RP-neg,ST002915,bio_90564015906,Training,1 week of training or control time,Female,90564015906,1,5.015889711252898,-1.687661815251267
+Kidney,RP-neg,ST002915,bio_90567015906,Training,1 week of training or control time,Female,90567015906,1,0.0,nan
+Kidney,RP-neg,ST002915,bio_90571015906,Training,1 week of training or control time,Female,90571015906,1,0.0,nan
+Kidney,RP-neg,ST002915,bio_90576015906,Training,2 weeks of training,Female,90576015906,2,3.8830032661437865,0.42093180531284186
+Kidney,RP-neg,ST002915,bio_90578015906,Training,2 weeks of training,Female,90578015906,2,1.926421012369811,-9.943646142331195
+Kidney,RP-neg,ST002915,bio_90581015906,Training,2 weeks of training,Female,90581015906,2,0.0,nan
+Kidney,RP-neg,ST002915,bio_90585015906,Training,2 weeks of training,Female,90585015906,2,2.288642708333295,-8.264848757154207
+Kidney,RP-neg,ST002915,bio_90587015906,Training,2 weeks of training,Female,90587015906,2,0.0,nan
+Kidney,RP-neg,ST002915,blank_0,Blank,,,blank_0,,0.0,nan
+Kidney,RP-neg,ST002915,blank_1,Blank,,,blank_1,,0.0,nan
+Kidney,RP-neg,ST002915,blank_2,Blank,,,blank_2,,0.0,nan
+Kidney,RP-neg,ST002915,blank_3,Blank,,,blank_3,,0.0,nan
+Kidney,RP-neg,ST002915,blank_4,Blank,,,blank_4,,0.0,nan
+Kidney,RP-neg,ST002915,blank_5,Blank,,,blank_5,,0.0,nan
+Liver,RP-neg,ST002679,bio_90217016808,Control,8 weeks of training or control time,Male,90217016808,0,65.63018109944616,0.2663933912393431
+Liver,RP-neg,ST002679,bio_90218016808,Training,8 weeks of training or control time,Male,90218016808,8,18.44556413675949,-0.11310867504496214
+Liver,RP-neg,ST002679,bio_90222016808,Training,8 weeks of training or control time,Male,90222016808,8,13.281427964019842,-5.687902690022469
+Liver,RP-neg,ST002679,bio_90223016808,Training,8 weeks of training or control time,Male,90223016808,8,34.94482040761309,-9.066669435881236
+Liver,RP-neg,ST002679,bio_90225016808,Training,8 weeks of training or control time,Male,90225016808,8,26.269379893493742,7.796819852637407
+Liver,RP-neg,ST002679,bio_90227016808,Training,8 weeks of training or control time,Male,90227016808,8,29.672083436075734,7.747266486644643
+Liver,RP-neg,ST002679,bio_90229016808,Control,8 weeks of training or control time,Male,90229016808,0,28.94447383270259,-5.766346820292192
+Liver,RP-neg,ST002679,bio_90232016808,Control,8 weeks of training or control time,Male,90232016808,0,31.217999943542562,3.213757957631358
+Liver,RP-neg,ST002679,bio_90237016808,Control,8 weeks of training or control time,Male,90237016808,0,13.462659749857572,-3.6095170818860356
+Liver,RP-neg,ST002679,bio_90239016808,Control,8 weeks of training or control time,Male,90239016808,0,25.92859791310629,-1.0503029440832168
+Liver,RP-neg,ST002679,bio_90245016808,Control,8 weeks of training or control time,Female,90245016808,0,18.09220782063813,-3.695444179530912
+Liver,RP-neg,ST002679,bio_90248016808,Control,8 weeks of training or control time,Female,90248016808,0,12.193947275288947,5.372874167149261
+Liver,RP-neg,ST002679,bio_90251016808,Training,8 weeks of training or control time,Female,90251016808,8,30.061408155822715,-7.728190402463134
+Liver,RP-neg,ST002679,bio_90252016808,Control,8 weeks of training or control time,Female,90252016808,0,2.696137865066529,8.611272169961987
+Liver,RP-neg,ST002679,bio_90254016808,Training,8 weeks of training or control time,Female,90254016808,8,18.116156573994903,-2.2865613910341964
+Liver,RP-neg,ST002679,bio_90258016808,Training,8 weeks of training or control time,Female,90258016808,8,24.820468556467823,-1.9483076091886529
+Liver,RP-neg,ST002679,bio_90259016808,Training,8 weeks of training or control time,Female,90259016808,8,34.08398344726572,-3.9312108796458642
+Liver,RP-neg,ST002679,bio_90265016808,Control,8 weeks of training or control time,Female,90265016808,0,20.86253041280116,7.967543274001972
+Liver,RP-neg,ST002679,bio_90266016808,Control,8 weeks of training or control time,Female,90266016808,0,10.686586213175277,-2.399414208875316
+Liver,RP-neg,ST002679,bio_90267016808,Training,8 weeks of training or control time,Female,90267016808,8,4.789084277343798,1.6635386780676675
+Liver,RP-neg,ST002679,bio_90280016808,Training,4 weeks of training,Male,90280016808,4,17.67472786102294,-0.4928172327021631
+Liver,RP-neg,ST002679,bio_90281016808,Training,4 weeks of training,Male,90281016808,4,5.896068194071463,9.236144005409257
+Liver,RP-neg,ST002679,bio_90283016808,Training,4 weeks of training,Male,90283016808,4,11.810615387980262,3.2831735672498206
+Liver,RP-neg,ST002679,bio_90289016808,Training,4 weeks of training,Male,90289016808,4,4.6261194376628065,-0.5307971466730884
+Liver,RP-neg,ST002679,bio_90292016808,Training,4 weeks of training,Male,90292016808,4,3.756592242431578,-4.148083810310039
+Liver,RP-neg,ST002679,bio_90406016808,Training,4 weeks of training,Female,90406016808,4,14.802732919820299,-9.440487383868081
+Liver,RP-neg,ST002679,bio_90410016808,Training,4 weeks of training,Female,90410016808,4,18.69591057484949,3.3386440292352164
+Liver,RP-neg,ST002679,bio_90412016808,Training,4 weeks of training,Female,90412016808,4,8.417115264129633,-2.670830346580661
+Liver,RP-neg,ST002679,bio_90416016808,Training,4 weeks of training,Female,90416016808,4,15.375288770548588,-5.641608491892184
+Liver,RP-neg,ST002679,bio_90420016808,Training,4 weeks of training,Female,90420016808,4,24.45233780365005,-6.139878562124127
+Liver,RP-neg,ST002679,bio_90421016808,Training,1 week of training or control time,Male,90421016808,1,25.208387980651853,-0.2585717453790496
+Liver,RP-neg,ST002679,bio_90422016808,Training,1 week of training or control time,Male,90422016808,1,15.04517867685956,-3.592167412801471
+Liver,RP-neg,ST002679,bio_90423016808,Training,1 week of training or control time,Male,90423016808,1,15.975931645202735,-3.886859891739736
+Liver,RP-neg,ST002679,bio_90426016808,Training,1 week of training or control time,Male,90426016808,1,11.121139049530115,4.827965996134371
+Liver,RP-neg,ST002679,bio_90430016808,Training,1 week of training or control time,Male,90430016808,1,12.309055680847116,-0.2903474851434992
+Liver,RP-neg,ST002679,bio_90439016808,Training,2 weeks of training,Male,90439016808,2,22.014585698445607,-3.586762954920033
+Liver,RP-neg,ST002679,bio_90441016808,Training,2 weeks of training,Male,90441016808,2,7.249183617146777,8.693611999608594
+Liver,RP-neg,ST002679,bio_90444016808,Training,2 weeks of training,Male,90444016808,2,4.100813169733751,-2.253875680764742
+Liver,RP-neg,ST002679,bio_90449016808,Training,2 weeks of training,Male,90449016808,2,8.164400690460262,-6.772342356181974
+Liver,RP-neg,ST002679,bio_90450016808,Training,2 weeks of training,Male,90450016808,2,7.587155052184932,-6.206431935396471
+Liver,RP-neg,ST002679,bio_90559016808,Training,1 week of training or control time,Female,90559016808,1,21.891021980794285,-4.838819176953883
+Liver,RP-neg,ST002679,bio_90560016808,Training,1 week of training or control time,Female,90560016808,1,16.83336936950692,-6.2939643873616316
+Liver,RP-neg,ST002679,bio_90564016808,Training,1 week of training or control time,Female,90564016808,1,8.833341867573962,-0.9813993801681582
+Liver,RP-neg,ST002679,bio_90567016808,Training,1 week of training or control time,Female,90567016808,1,3.577641406504325,-5.090728632237756
+Liver,RP-neg,ST002679,bio_90571016808,Training,1 week of training or control time,Female,90571016808,1,21.012177621459905,6.059807176021968
+Liver,RP-neg,ST002679,bio_90576016808,Training,2 weeks of training,Female,90576016808,2,23.538542530822678,-0.6774037913225526
+Liver,RP-neg,ST002679,bio_90578016808,Training,2 weeks of training,Female,90578016808,2,17.651898606363815,-2.908476752634712
+Liver,RP-neg,ST002679,bio_90581016808,Training,2 weeks of training,Female,90581016808,2,14.041703762308805,5.923326658696986
+Liver,RP-neg,ST002679,bio_90585016808,Training,2 weeks of training,Female,90585016808,2,14.044430227661174,2.103519649182935
+Liver,RP-neg,ST002679,bio_90587016808,Training,2 weeks of training,Female,90587016808,2,6.503563029479984,-5.301212043788654
+Liver,RP-neg,ST002679,blank_0,Blank,,,blank_0,,1.8855567072550645,-3.0954223327585573
+Liver,RP-neg,ST002679,blank_1,Blank,,,blank_1,,0.0,nan
+Liver,RP-neg,ST002679,blank_2,Blank,,,blank_2,,2.0519421974182332,1.9244228361448639
+Liver,RP-neg,ST002679,blank_3,Blank,,,blank_3,,0.0,nan
+Liver,RP-neg,ST002679,blank_4,Blank,,,blank_4,,0.0,nan
+Lung,RP-pos,ST002673,bio_90217016606,Control,8 weeks of training or control time,Male,90217016606,0,3.06140286763504,0.1469131296388707
+Lung,RP-pos,ST002673,bio_90218016606,Training,8 weeks of training or control time,Male,90218016606,8,3.776828077189111,1.0584185445874321
+Lung,RP-pos,ST002673,bio_90222016606,Training,8 weeks of training or control time,Male,90222016606,8,8.476589174397855,1.4489176901991574
+Lung,RP-pos,ST002673,bio_90223016606,Training,8 weeks of training or control time,Male,90223016606,8,3.2063246167501,-9.851845485478936
+Lung,RP-pos,ST002673,bio_90225016606,Training,8 weeks of training or control time,Male,90225016606,8,5.876423944600415,-2.2440499917312757
+Lung,RP-pos,ST002673,bio_90227016606,Training,8 weeks of training or control time,Male,90227016606,8,2.757148348490425,-3.013673147830746
+Lung,RP-pos,ST002673,bio_90229016606,Control,8 weeks of training or control time,Male,90229016606,0,8.9765662448883,-0.0057517966637149216
+Lung,RP-pos,ST002673,bio_90232016606,Control,8 weeks of training or control time,Male,90232016606,0,2.4647465006510663,-0.18027987472835855
+Lung,RP-pos,ST002673,bio_90237016606,Control,8 weeks of training or control time,Male,90237016606,0,9.822063535563249,-1.0356556443192733
+Lung,RP-pos,ST002673,bio_90239016606,Control,8 weeks of training or control time,Male,90239016606,0,7.897177279154479,-1.9479585277671572
+Lung,RP-pos,ST002673,bio_90245016606,Control,8 weeks of training or control time,Female,90245016606,0,11.462915817387923,5.406933684914966
+Lung,RP-pos,ST002673,bio_90248016606,Control,8 weeks of training or control time,Female,90248016606,0,4.102414232126856,7.113553041612386
+Lung,RP-pos,ST002673,bio_90251016606,Training,8 weeks of training or control time,Female,90251016606,8,4.714194683837938,-1.0881478548413952
+Lung,RP-pos,ST002673,bio_90252016606,Control,8 weeks of training or control time,Female,90252016606,0,2.6618452570597597,-3.3367178229590784
+Lung,RP-pos,ST002673,bio_90254016606,Training,8 weeks of training or control time,Female,90254016606,8,4.258651602172832,3.6308284126271686
+Lung,RP-pos,ST002673,bio_90258016606,Training,8 weeks of training or control time,Female,90258016606,8,4.704470879109661,-1.0906280216121191
+Lung,RP-pos,ST002673,bio_90259016606,Training,8 weeks of training or control time,Female,90259016606,8,4.066409268442777,2.0228189948897364
+Lung,RP-pos,ST002673,bio_90265016606,Control,8 weeks of training or control time,Female,90265016606,0,1.8258715276082538,4.894340729797345
+Lung,RP-pos,ST002673,bio_90266016606,Control,8 weeks of training or control time,Female,90266016606,0,3.0027133631387843,-0.5991202279913894
+Lung,RP-pos,ST002673,bio_90267016606,Training,8 weeks of training or control time,Female,90267016606,8,4.738128958129931,4.734441792374734
+Lung,RP-pos,ST002673,bio_90280016606,Training,4 weeks of training,Male,90280016606,4,3.0034558682760193,-5.112655015234102
+Lung,RP-pos,ST002673,bio_90281016606,Training,4 weeks of training,Male,90281016606,4,7.839428120422371,-2.9446709433930094
+Lung,RP-pos,ST002673,bio_90283016606,Training,4 weeks of training,Male,90283016606,4,5.466200993347076,2.235017882080445
+Lung,RP-pos,ST002673,bio_90289016606,Training,4 weeks of training,Male,90289016606,4,12.739397056579715,-3.2711027347359662
+Lung,RP-pos,ST002673,bio_90292016606,Training,4 weeks of training,Male,90292016606,4,0.0,nan
+Lung,RP-pos,ST002673,bio_90406016606,Training,4 weeks of training,Female,90406016606,4,6.830787619527195,5.413337265701556
+Lung,RP-pos,ST002673,bio_90410016606,Training,4 weeks of training,Female,90410016606,4,9.292151667276933,5.035659208823644
+Lung,RP-pos,ST002673,bio_90412016606,Training,4 weeks of training,Female,90412016606,4,1.996007614135762,0.46215128465533506
+Lung,RP-pos,ST002673,bio_90416016606,Training,4 weeks of training,Female,90416016606,4,5.379269771067305,0.11608609623727785
+Lung,RP-pos,ST002673,bio_90420016606,Training,4 weeks of training,Female,90420016606,4,9.921713736470544,-5.227909504078789
+Lung,RP-pos,ST002673,bio_90421016606,Training,1 week of training or control time,Male,90421016606,1,11.250862347666285,-6.739366841070386
+Lung,RP-pos,ST002673,bio_90422016606,Training,1 week of training or control time,Male,90422016606,1,2.863102092997185,-4.218975210681653
+Lung,RP-pos,ST002673,bio_90423016606,Training,1 week of training or control time,Male,90423016606,1,8.142632650248292,-3.453587864824605
+Lung,RP-pos,ST002673,bio_90426016606,Training,1 week of training or control time,Male,90426016606,1,0.0,nan
+Lung,RP-pos,ST002673,bio_90430016606,Training,1 week of training or control time,Male,90430016606,1,1.2656927083333123,-3.3354119306750225
+Lung,RP-pos,ST002673,bio_90439016606,Training,2 weeks of training,Male,90439016606,2,0.0,nan
+Lung,RP-pos,ST002673,bio_90441016606,Training,2 weeks of training,Male,90441016606,2,6.4449448440552395,0.818844731636628
+Lung,RP-pos,ST002673,bio_90444016606,Training,2 weeks of training,Male,90444016606,2,1.9121717918396188,4.035042377807148
+Lung,RP-pos,ST002673,bio_90449016606,Training,2 weeks of training,Male,90449016606,2,2.267741398111941,-6.57938012482835
+Lung,RP-pos,ST002673,bio_90450016606,Training,2 weeks of training,Male,90450016606,2,0.0,nan
+Lung,RP-pos,ST002673,bio_90559016606,Training,1 week of training or control time,Female,90559016606,1,5.110414856720001,-4.03328279970398
+Lung,RP-pos,ST002673,bio_90560016606,Training,1 week of training or control time,Female,90560016606,1,7.511298463440017,5.615169373108407
+Lung,RP-pos,ST002673,bio_90564016606,Training,1 week of training or control time,Female,90564016606,1,10.436964640808107,7.418475928491591
+Lung,RP-pos,ST002673,bio_90567016606,Training,1 week of training or control time,Female,90567016606,1,1.7162575411478849,-6.4711738836302555
+Lung,RP-pos,ST002673,bio_90571016606,Training,1 week of training or control time,Female,90571016606,1,5.5319702481587285,2.195736748243858
+Lung,RP-pos,ST002673,bio_90576016606,Training,2 weeks of training,Female,90576016606,2,2.4529075347900635,-5.629446337913909
+Lung,RP-pos,ST002673,bio_90578016606,Training,2 weeks of training,Female,90578016606,2,3.8823464200338114,-7.63783644631827
+Lung,RP-pos,ST002673,bio_90581016606,Training,2 weeks of training,Female,90581016606,2,4.748107349650101,-6.850023241491073
+Lung,RP-pos,ST002673,bio_90585016606,Training,2 weeks of training,Female,90585016606,2,6.305399309285473,3.014950483210613
+Lung,RP-pos,ST002673,bio_90587016606,Training,2 weeks of training,Female,90587016606,2,2.356641001383487,6.0967934232077
+Lung,RP-pos,ST002673,blank_0,Blank,,,blank_0,,0.0,nan
+Lung,RP-pos,ST002673,blank_1,Blank,,,blank_1,,0.0,nan
+Lung,RP-pos,ST002673,blank_2,Blank,,,blank_2,,0.0,nan
+Lung,RP-pos,ST002673,blank_3,Blank,,,blank_3,,0.0,nan
+Plasma,RP-neg,ST002632,bio_90217013105,Control,8 weeks of training or control time,Male,90217013105,0,93.79886831614198,-4.9314333497549105
+Plasma,RP-neg,ST002632,bio_90218013105,Training,8 weeks of training or control time,Male,90218013105,8,160.99340851440408,-0.1041006808841599
+Plasma,RP-neg,ST002632,bio_90222013105,Training,8 weeks of training or control time,Male,90222013105,8,153.54148516057361,-4.676073537799366
+Plasma,RP-neg,ST002632,bio_90223013105,Training,8 weeks of training or control time,Male,90223013105,8,32.508138596089786,7.533576880838881
+Plasma,RP-neg,ST002632,bio_90225013105,Training,8 weeks of training or control time,Male,90225013105,8,161.8441198633832,-1.5420558454686155
+Plasma,RP-neg,ST002632,bio_90227013105,Training,8 weeks of training or control time,Male,90227013105,8,216.91984466552765,-1.538385633397757
+Plasma,RP-neg,ST002632,bio_90229013105,Control,8 weeks of training or control time,Male,90229013105,0,144.53894488728832,-4.051557735821257
+Plasma,RP-neg,ST002632,bio_90232013105,Control,8 weeks of training or control time,Male,90232013105,0,139.4929969792682,-0.6737560168321013
+Plasma,RP-neg,ST002632,bio_90237013105,Control,8 weeks of training or control time,Male,90237013105,0,108.47673764114366,-3.5275456391144013
+Plasma,RP-neg,ST002632,bio_90239013105,Control,8 weeks of training or control time,Male,90239013105,0,186.6840051239014,0.6877299690147904
+Plasma,RP-neg,ST002632,bio_90245013105,Control,8 weeks of training or control time,Female,90245013105,0,145.56253219044987,2.5450868837026817
+Plasma,RP-neg,ST002632,bio_90248013105,Control,8 weeks of training or control time,Female,90248013105,0,104.78091548741666,-0.5477534196674081
+Plasma,RP-neg,ST002632,bio_90251013105,Training,8 weeks of training or control time,Female,90251013105,8,80.5271658973693,0.623328717652155
+Plasma,RP-neg,ST002632,bio_90252013105,Control,8 weeks of training or control time,Female,90252013105,0,116.90518589375806,-5.950804570366598
+Plasma,RP-neg,ST002632,bio_90254013105,Training,8 weeks of training or control time,Female,90254013105,8,93.28096123962372,0.8274764118163106
+Plasma,RP-neg,ST002632,bio_90258013105,Training,8 weeks of training or control time,Female,90258013105,8,173.28285705464708,-4.735332225963655
+Plasma,RP-neg,ST002632,bio_90259013105,Training,8 weeks of training or control time,Female,90259013105,8,134.28200747375493,-3.7327662459008204
+Plasma,RP-neg,ST002632,bio_90265013105,Control,8 weeks of training or control time,Female,90265013105,0,100.54119068349206,0.41907440332833285
+Plasma,RP-neg,ST002632,bio_90266013105,Control,8 weeks of training or control time,Female,90266013105,0,78.88268275248203,1.4348704552177434
+Plasma,RP-neg,ST002632,bio_90267013105,Training,8 weeks of training or control time,Female,90267013105,8,172.90269594726539,-1.0867134625615626
+Plasma,RP-neg,ST002632,bio_90280013105,Training,4 weeks of training,Male,90280013105,4,69.26501193974795,-5.5692577424507395
+Plasma,RP-neg,ST002632,bio_90281013105,Training,4 weeks of training,Male,90281013105,4,177.31711601562463,0.5928824703766752
+Plasma,RP-neg,ST002632,bio_90283013105,Training,4 weeks of training,Male,90283013105,4,120.78051220753993,-0.9964260127002164
+Plasma,RP-neg,ST002632,bio_90289013105,Training,4 weeks of training,Male,90289013105,4,143.7173684733075,0.5220174594434308
+Plasma,RP-neg,ST002632,bio_90292013105,Training,4 weeks of training,Male,90292013105,4,141.30142807515475,2.158096066693792
+Plasma,RP-neg,ST002632,bio_90406013105,Training,4 weeks of training,Female,90406013105,4,176.77341823603317,-0.44943089510568807
+Plasma,RP-neg,ST002632,bio_90410013105,Training,4 weeks of training,Female,90410013105,4,123.83942601420087,-2.119223515171681
+Plasma,RP-neg,ST002632,bio_90412013105,Training,4 weeks of training,Female,90412013105,4,147.73838899027507,0.7718696793063203
+Plasma,RP-neg,ST002632,bio_90416013105,Training,4 weeks of training,Female,90416013105,4,118.28211592877712,-2.006799945227473
+Plasma,RP-neg,ST002632,bio_90420013105,Training,4 weeks of training,Female,90420013105,4,122.56917116953537,0.7649940605302342
+Plasma,RP-neg,ST002632,bio_90421013105,Training,1 week of training or control time,Male,90421013105,1,134.91376945037845,-1.5155166613020998
+Plasma,RP-neg,ST002632,bio_90422013105,Training,1 week of training or control time,Male,90422013105,1,139.4520992563887,-4.771109183874927
+Plasma,RP-neg,ST002632,bio_90423013105,Training,1 week of training or control time,Male,90423013105,1,171.5062504501343,0.7123900590317573
+Plasma,RP-neg,ST002632,bio_90426013105,Training,1 week of training or control time,Male,90426013105,1,195.82387331161462,-0.5074046820772495
+Plasma,RP-neg,ST002632,bio_90430013105,Training,1 week of training or control time,Male,90430013105,1,182.51790435791025,-3.068235579585165
+Plasma,RP-neg,ST002632,bio_90439013105,Training,2 weeks of training,Male,90439013105,2,137.5375600184124,-2.0988243940727616
+Plasma,RP-neg,ST002632,bio_90441013105,Training,2 weeks of training,Male,90441013105,2,84.20842048721329,-1.1330813029629783
+Plasma,RP-neg,ST002632,bio_90444013105,Training,2 weeks of training,Male,90444013105,2,142.3344341496786,-2.177776933015998
+Plasma,RP-neg,ST002632,bio_90449013105,Training,2 weeks of training,Male,90449013105,2,123.90465479227696,-4.0814041980800555
+Plasma,RP-neg,ST002632,bio_90450013105,Training,2 weeks of training,Male,90450013105,2,115.05928084030168,-3.2861966686142394
+Plasma,RP-neg,ST002632,bio_90559013105,Training,1 week of training or control time,Female,90559013105,1,182.5292415479018,-2.7547051464590635
+Plasma,RP-neg,ST002632,bio_90560013105,Training,1 week of training or control time,Female,90560013105,1,149.77802339477523,-0.8685775092235409
+Plasma,RP-neg,ST002632,bio_90564013105,Training,1 week of training or control time,Female,90564013105,1,135.2605039942423,-1.402563376709989
+Plasma,RP-neg,ST002632,bio_90567013105,Training,1 week of training or control time,Female,90567013105,1,148.13328852640817,-0.12123955849296492
+Plasma,RP-neg,ST002632,bio_90571013105,Training,1 week of training or control time,Female,90571013105,1,281.91728723602273,2.868969981445214
+Plasma,RP-neg,ST002632,bio_90576013105,Training,2 weeks of training,Female,90576013105,2,175.98210776875806,1.702973953064807
+Plasma,RP-neg,ST002632,bio_90578013105,Training,2 weeks of training,Female,90578013105,2,198.10371332295747,1.2158893377289952
+Plasma,RP-neg,ST002632,bio_90581013105,Training,2 weeks of training,Female,90581013105,2,159.7417729756676,0.022838611708145405
+Plasma,RP-neg,ST002632,bio_90585013105,Training,2 weeks of training,Female,90585013105,2,164.83127107518516,-0.10795090510827285
+Plasma,RP-neg,ST002632,bio_90587013105,Training,2 weeks of training,Female,90587013105,2,176.73664298349996,-2.1749557313524868
+Plasma,RP-neg,ST002632,blank_0,Blank,,,blank_0,,0.0,nan
+Plasma,RP-neg,ST002632,blank_1,Blank,,,blank_1,,0.0,nan
+Plasma,RP-neg,ST002632,blank_2,Blank,,,blank_2,,0.0,nan
+Plasma,RP-neg,ST002632,blank_3,Blank,,,blank_3,,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90217017008,Control,8 weeks of training or control time,Male,90217017008,0,2.6988835858662945,4.114407157707817
+White Adipose,RP-neg,ST002693,bio_90218017008,Training,8 weeks of training or control time,Male,90218017008,8,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90222017008,Training,8 weeks of training or control time,Male,90222017008,8,3.7664764058430364,9.035288297969357
+White Adipose,RP-neg,ST002693,bio_90223017008,Training,8 weeks of training or control time,Male,90223017008,8,2.157729573059104,-2.493556531333448
+White Adipose,RP-neg,ST002693,bio_90225017008,Training,8 weeks of training or control time,Male,90225017008,8,5.165315983072831,-4.708727497491279
+White Adipose,RP-neg,ST002693,bio_90227017008,Training,8 weeks of training or control time,Male,90227017008,8,13.459025395965583,-1.2508849917489582
+White Adipose,RP-neg,ST002693,bio_90229017008,Control,8 weeks of training or control time,Male,90229017008,0,1.783600130208351,9.977818831902809
+White Adipose,RP-neg,ST002693,bio_90232017008,Control,8 weeks of training or control time,Male,90232017008,0,2.6200667480469013,-3.8102376183853157
+White Adipose,RP-neg,ST002693,bio_90237017008,Control,8 weeks of training or control time,Male,90237017008,0,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90239017008,Control,8 weeks of training or control time,Male,90239017008,0,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90245017008,Control,8 weeks of training or control time,Female,90245017008,0,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90248017008,Control,8 weeks of training or control time,Female,90248017008,0,3.0080089945474757,-1.5327192536265282
+White Adipose,RP-neg,ST002693,bio_90251017008,Training,8 weeks of training or control time,Female,90251017008,8,1.8797265635172715,5.926992503009386
+White Adipose,RP-neg,ST002693,bio_90252017008,Control,8 weeks of training or control time,Female,90252017008,0,2.1384104802449757,2.6006412545149873
+White Adipose,RP-neg,ST002693,bio_90254017008,Training,8 weeks of training or control time,Female,90254017008,8,5.013022354634586,7.335799726467812
+White Adipose,RP-neg,ST002693,bio_90258017008,Training,8 weeks of training or control time,Female,90258017008,8,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90259017008,Training,8 weeks of training or control time,Female,90259017008,8,12.567494776662167,0.03960469062311582
+White Adipose,RP-neg,ST002693,bio_90265017008,Control,8 weeks of training or control time,Female,90265017008,0,2.4403805048624267,-5.7156113720332185
+White Adipose,RP-neg,ST002693,bio_90266017008,Control,8 weeks of training or control time,Female,90266017008,0,3.8508896788278926,8.949301899594625
+White Adipose,RP-neg,ST002693,bio_90267017008,Training,8 weeks of training or control time,Female,90267017008,8,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90280017008,Training,4 weeks of training,Male,90280017008,4,1.9553184341430339,6.852623983727138
+White Adipose,RP-neg,ST002693,bio_90281017008,Training,4 weeks of training,Male,90281017008,4,2.194326726023305,-9.323855382824746
+White Adipose,RP-neg,ST002693,bio_90283017008,Training,4 weeks of training,Male,90283017008,4,5.223974015808091,5.264584793625263
+White Adipose,RP-neg,ST002693,bio_90289017008,Training,4 weeks of training,Male,90289017008,4,3.552858274332623,-9.150496947148033
+White Adipose,RP-neg,ST002693,bio_90292017008,Training,4 weeks of training,Male,90292017008,4,2.657739715067572,-1.2561413092809879
+White Adipose,RP-neg,ST002693,bio_90406017008,Training,4 weeks of training,Female,90406017008,4,7.928760206604011,0.1992736924937123
+White Adipose,RP-neg,ST002693,bio_90410017008,Training,4 weeks of training,Female,90410017008,4,8.621440469868945,-0.002246176547627935
+White Adipose,RP-neg,ST002693,bio_90412017008,Training,4 weeks of training,Female,90412017008,4,6.866403627777046,3.782419587238645
+White Adipose,RP-neg,ST002693,bio_90416017008,Training,4 weeks of training,Female,90416017008,4,13.23697390670786,-7.316908479053849
+White Adipose,RP-neg,ST002693,bio_90420017008,Training,4 weeks of training,Female,90420017008,4,4.8460311599731405,4.499139650378489
+White Adipose,RP-neg,ST002693,bio_90421017008,Training,1 week of training or control time,Male,90421017008,1,4.707408061854006,-5.836629945085967
+White Adipose,RP-neg,ST002693,bio_90422017008,Training,1 week of training or control time,Male,90422017008,1,3.6787573743184776,-9.472349264251351
+White Adipose,RP-neg,ST002693,bio_90423017008,Training,1 week of training or control time,Male,90423017008,1,1.9324073432922169,-3.804652695347065
+White Adipose,RP-neg,ST002693,bio_90426017008,Training,1 week of training or control time,Male,90426017008,1,20.493580105082223,7.163702428618628
+White Adipose,RP-neg,ST002693,bio_90430017008,Training,1 week of training or control time,Male,90430017008,1,1.898053153737405,5.34239229282333
+White Adipose,RP-neg,ST002693,bio_90439017008,Training,2 weeks of training,Male,90439017008,2,12.225617384592612,-9.065772310187974
+White Adipose,RP-neg,ST002693,bio_90441017008,Training,2 weeks of training,Male,90441017008,2,7.135334013875298,4.447766634824456
+White Adipose,RP-neg,ST002693,bio_90444017008,Training,2 weeks of training,Male,90444017008,2,4.59717353922524,2.7799534783890385
+White Adipose,RP-neg,ST002693,bio_90449017008,Training,2 weeks of training,Male,90449017008,2,4.062905623881063,-3.129127069655209
+White Adipose,RP-neg,ST002693,bio_90450017008,Training,2 weeks of training,Male,90450017008,2,2.114016185251893,3.57871342479548
+White Adipose,RP-neg,ST002693,bio_90559017008,Training,1 week of training or control time,Female,90559017008,1,9.791672474161818,0.3597760922201333
+White Adipose,RP-neg,ST002693,bio_90560017008,Training,1 week of training or control time,Female,90560017008,1,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90564017008,Training,1 week of training or control time,Female,90564017008,1,6.99470321095785,2.5218143878836967
+White Adipose,RP-neg,ST002693,bio_90567017008,Training,1 week of training or control time,Female,90567017008,1,2.145241375223817,-8.54522117775536
+White Adipose,RP-neg,ST002693,bio_90571017008,Training,1 week of training or control time,Female,90571017008,1,9.894386758168551,3.002611865317914
+White Adipose,RP-neg,ST002693,bio_90576017008,Training,2 weeks of training,Female,90576017008,2,1.7224364123026703,8.565091480462419
+White Adipose,RP-neg,ST002693,bio_90578017008,Training,2 weeks of training,Female,90578017008,2,4.3411966751098365,6.68984984844583
+White Adipose,RP-neg,ST002693,bio_90581017008,Training,2 weeks of training,Female,90581017008,2,0.0,nan
+White Adipose,RP-neg,ST002693,bio_90585017008,Training,2 weeks of training,Female,90585017008,2,10.669422935994447,0.9923027974329472
+White Adipose,RP-neg,ST002693,bio_90587017008,Training,2 weeks of training,Female,90587017008,2,13.995240118916719,4.305168436033902
+White Adipose,RP-neg,ST002693,blank_0,Blank,,,blank_0,,0.0,nan
+White Adipose,RP-neg,ST002693,blank_1,Blank,,,blank_1,,0.0,nan
+White Adipose,RP-neg,ST002693,blank_2,Blank,,,blank_2,,0.0,nan
+White Adipose,RP-neg,ST002693,blank_3,Blank,,,blank_3,,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90217017008,Control,8 weeks of training or control time,Male,90217017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90218017008,Training,8 weeks of training or control time,Male,90218017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90222017008,Training,8 weeks of training or control time,Male,90222017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90223017008,Training,8 weeks of training or control time,Male,90223017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90225017008,Training,8 weeks of training or control time,Male,90225017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90227017008,Training,8 weeks of training or control time,Male,90227017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90229017008,Control,8 weeks of training or control time,Male,90229017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90232017008,Control,8 weeks of training or control time,Male,90232017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90237017008,Control,8 weeks of training or control time,Male,90237017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90239017008,Control,8 weeks of training or control time,Male,90239017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90245017008,Control,8 weeks of training or control time,Female,90245017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90248017008,Control,8 weeks of training or control time,Female,90248017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90251017008,Training,8 weeks of training or control time,Female,90251017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90252017008,Control,8 weeks of training or control time,Female,90252017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90254017008,Training,8 weeks of training or control time,Female,90254017008,8,0.9268144297281746,8.493213086080694
+White Adipose,RP-pos,ST002694,bio_90258017008,Training,8 weeks of training or control time,Female,90258017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90259017008,Training,8 weeks of training or control time,Female,90259017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90265017008,Control,8 weeks of training or control time,Female,90265017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90266017008,Control,8 weeks of training or control time,Female,90266017008,0,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90267017008,Training,8 weeks of training or control time,Female,90267017008,8,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90280017008,Training,4 weeks of training,Male,90280017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90281017008,Training,4 weeks of training,Male,90281017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90283017008,Training,4 weeks of training,Male,90283017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90289017008,Training,4 weeks of training,Male,90289017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90292017008,Training,4 weeks of training,Male,90292017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90406017008,Training,4 weeks of training,Female,90406017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90410017008,Training,4 weeks of training,Female,90410017008,4,2.417292161051392,4.091401105184396
+White Adipose,RP-pos,ST002694,bio_90412017008,Training,4 weeks of training,Female,90412017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90416017008,Training,4 weeks of training,Female,90416017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90420017008,Training,4 weeks of training,Female,90420017008,4,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90421017008,Training,1 week of training or control time,Male,90421017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90422017008,Training,1 week of training or control time,Male,90422017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90423017008,Training,1 week of training or control time,Male,90423017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90426017008,Training,1 week of training or control time,Male,90426017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90430017008,Training,1 week of training or control time,Male,90430017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90439017008,Training,2 weeks of training,Male,90439017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90441017008,Training,2 weeks of training,Male,90441017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90444017008,Training,2 weeks of training,Male,90444017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90449017008,Training,2 weeks of training,Male,90449017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90450017008,Training,2 weeks of training,Male,90450017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90559017008,Training,1 week of training or control time,Female,90559017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90560017008,Training,1 week of training or control time,Female,90560017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90564017008,Training,1 week of training or control time,Female,90564017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90567017008,Training,1 week of training or control time,Female,90567017008,1,3.6520562500000366,-5.806922240968392
+White Adipose,RP-pos,ST002694,bio_90571017008,Training,1 week of training or control time,Female,90571017008,1,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90576017008,Training,2 weeks of training,Female,90576017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90578017008,Training,2 weeks of training,Female,90578017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,bio_90581017008,Training,2 weeks of training,Female,90581017008,2,2.1800328994750613,-4.862418314952462
+White Adipose,RP-pos,ST002694,bio_90585017008,Training,2 weeks of training,Female,90585017008,2,5.075439232381152,-8.771615873251017
+White Adipose,RP-pos,ST002694,bio_90587017008,Training,2 weeks of training,Female,90587017008,2,0.0,nan
+White Adipose,RP-pos,ST002694,blank_0,Blank,,,blank_0,,0.0,nan
+White Adipose,RP-pos,ST002694,blank_1,Blank,,,blank_1,,0.0,nan
+White Adipose,RP-pos,ST002694,blank_2,Blank,,,blank_2,,0.0,nan
+White Adipose,RP-pos,ST002694,blank_3,Blank,,,blank_3,,0.0,nan
+Kidney,RP-pos,ST002658,bio_90217015906,Control,8 weeks of training or control time,Male,90217015906,0,74.49025365956616,1.4928051695398625
+Kidney,RP-pos,ST002658,bio_90218015906,Training,8 weeks of training or control time,Male,90218015906,8,61.80287257130945,3.515263976808212
+Kidney,RP-pos,ST002658,bio_90222015906,Training,8 weeks of training or control time,Male,90222015906,8,43.14798451741536,0.5166725712454957
+Kidney,RP-pos,ST002658,bio_90223015906,Training,8 weeks of training or control time,Male,90223015906,8,71.30393736623131,9.375069599516586
+Kidney,RP-pos,ST002658,bio_90225015906,Training,8 weeks of training or control time,Male,90225015906,8,68.73243226114937,0.4136078409361505
+Kidney,RP-pos,ST002658,bio_90227015906,Training,8 weeks of training or control time,Male,90227015906,8,90.32115054626514,-0.44352464724783064
+Kidney,RP-pos,ST002658,bio_90229015906,Control,8 weeks of training or control time,Male,90229015906,0,83.06061216176354,-3.3777900998032973
+Kidney,RP-pos,ST002658,bio_90232015906,Control,8 weeks of training or control time,Male,90232015906,0,85.27141023050962,-0.5144379034914243
+Kidney,RP-pos,ST002658,bio_90237015906,Control,8 weeks of training or control time,Male,90237015906,0,47.81251501566559,-9.025758655021228
+Kidney,RP-pos,ST002658,bio_90239015906,Control,8 weeks of training or control time,Male,90239015906,0,46.333231461080224,-9.8962892384881
+Kidney,RP-pos,ST002658,bio_90245015906,Control,8 weeks of training or control time,Female,90245015906,0,42.00580441640214,-4.082795549190206
+Kidney,RP-pos,ST002658,bio_90248015906,Control,8 weeks of training or control time,Female,90248015906,0,38.873214709472606,-8.678999545529155
+Kidney,RP-pos,ST002658,bio_90251015906,Training,8 weeks of training or control time,Female,90251015906,8,44.517910841369705,1.1348453883428793
+Kidney,RP-pos,ST002658,bio_90252015906,Control,8 weeks of training or control time,Female,90252015906,0,19.162002787780793,3.614643942710736
+Kidney,RP-pos,ST002658,bio_90254015906,Training,8 weeks of training or control time,Female,90254015906,8,25.620765257771737,3.8998354318659114
+Kidney,RP-pos,ST002658,bio_90258015906,Training,8 weeks of training or control time,Female,90258015906,8,24.63133891296376,-7.943397913989624
+Kidney,RP-pos,ST002658,bio_90259015906,Training,8 weeks of training or control time,Female,90259015906,8,53.24662230122857,-2.534317897574983
+Kidney,RP-pos,ST002658,bio_90265015906,Control,8 weeks of training or control time,Female,90265015906,0,44.614538031005864,-9.946637487743144
+Kidney,RP-pos,ST002658,bio_90266015906,Control,8 weeks of training or control time,Female,90266015906,0,47.08525322265636,-8.443383294678599
+Kidney,RP-pos,ST002658,bio_90267015906,Training,8 weeks of training or control time,Female,90267015906,8,41.13770615030937,-9.544293715817998
+Kidney,RP-pos,ST002658,bio_90280015906,Training,4 weeks of training,Male,90280015906,4,45.437788032023114,8.756544503689966
+Kidney,RP-pos,ST002658,bio_90281015906,Training,4 weeks of training,Male,90281015906,4,52.90345650278698,-9.589687024446372
+Kidney,RP-pos,ST002658,bio_90283015906,Training,4 weeks of training,Male,90283015906,4,34.7596377736411,-0.004242249392215441
+Kidney,RP-pos,ST002658,bio_90289015906,Training,4 weeks of training,Male,90289015906,4,61.89161913045251,5.838350065845674
+Kidney,RP-pos,ST002658,bio_90292015906,Training,4 weeks of training,Male,90292015906,4,56.88163050130218,-0.38174952586091754
+Kidney,RP-pos,ST002658,bio_90406015906,Training,4 weeks of training,Female,90406015906,4,26.435118902587895,-7.118522372655606
+Kidney,RP-pos,ST002658,bio_90410015906,Training,4 weeks of training,Female,90410015906,4,31.150354438781783,-9.536497317507687
+Kidney,RP-pos,ST002658,bio_90412015906,Training,4 weeks of training,Female,90412015906,4,24.562772467040944,-5.762049779165884
+Kidney,RP-pos,ST002658,bio_90416015906,Training,4 weeks of training,Female,90416015906,4,24.86801613311746,0.12302003665059981
+Kidney,RP-pos,ST002658,bio_90420015906,Training,4 weeks of training,Female,90420015906,4,37.38897296295162,-0.04405995712149848
+Kidney,RP-pos,ST002658,bio_90421015906,Training,1 week of training or control time,Male,90421015906,1,40.25412248942078,4.960960509807231
+Kidney,RP-pos,ST002658,bio_90422015906,Training,1 week of training or control time,Male,90422015906,1,24.385969697061995,-5.230648571104211
+Kidney,RP-pos,ST002658,bio_90423015906,Training,1 week of training or control time,Male,90423015906,1,52.62827859141036,-9.7096274198056
+Kidney,RP-pos,ST002658,bio_90426015906,Training,1 week of training or control time,Male,90426015906,1,34.32543406880712,1.5234181333498884
+Kidney,RP-pos,ST002658,bio_90430015906,Training,1 week of training or control time,Male,90430015906,1,20.928943593851898,-4.95591801560306
+Kidney,RP-pos,ST002658,bio_90439015906,Training,2 weeks of training,Male,90439015906,2,4.795793346150636,-8.014659554557023
+Kidney,RP-pos,ST002658,bio_90441015906,Training,2 weeks of training,Male,90441015906,2,57.470534662881896,6.470228355269826
+Kidney,RP-pos,ST002658,bio_90444015906,Training,2 weeks of training,Male,90444015906,2,46.879981651814965,-5.2429365696154875
+Kidney,RP-pos,ST002658,bio_90449015906,Training,2 weeks of training,Male,90449015906,2,45.41922857615178,4.854999812790866
+Kidney,RP-pos,ST002658,bio_90450015906,Training,2 weeks of training,Male,90450015906,2,70.20006379953995,0.5738713590929303
+Kidney,RP-pos,ST002658,bio_90559015906,Training,1 week of training or control time,Female,90559015906,1,0.0,nan
+Kidney,RP-pos,ST002658,bio_90560015906,Training,1 week of training or control time,Female,90560015906,1,9.972485736338342,6.762063199120419
+Kidney,RP-pos,ST002658,bio_90564015906,Training,1 week of training or control time,Female,90564015906,1,10.191191760253925,-8.746949262607512
+Kidney,RP-pos,ST002658,bio_90567015906,Training,1 week of training or control time,Female,90567015906,1,2.8528088867186647,5.885439582844458
+Kidney,RP-pos,ST002658,bio_90571015906,Training,1 week of training or control time,Female,90571015906,1,0.0,nan
+Kidney,RP-pos,ST002658,bio_90576015906,Training,2 weeks of training,Female,90576015906,2,5.1079162497203345,9.474929625074276
+Kidney,RP-pos,ST002658,bio_90578015906,Training,2 weeks of training,Female,90578015906,2,6.069540033467671,4.63279579207909
+Kidney,RP-pos,ST002658,bio_90581015906,Training,2 weeks of training,Female,90581015906,2,10.046095520528064,-7.623685825999201
+Kidney,RP-pos,ST002658,bio_90585015906,Training,2 weeks of training,Female,90585015906,2,0.0,nan
+Kidney,RP-pos,ST002658,bio_90587015906,Training,2 weeks of training,Female,90587015906,2,0.0,nan
+Kidney,RP-pos,ST002658,blank_0,Blank,,,blank_0,,2.1876186091104777,6.861502117411806
+Kidney,RP-pos,ST002658,blank_1,Blank,,,blank_1,,0.0,nan
+Kidney,RP-pos,ST002658,blank_2,Blank,,,blank_2,,0.0,nan
+Kidney,RP-pos,ST002658,blank_3,Blank,,,blank_3,,0.0,nan
+Kidney,RP-pos,ST002658,blank_4,Blank,,,blank_4,,0.0,nan
+Kidney,RP-pos,ST002658,blank_5,Blank,,,blank_5,,3.80269240798954,2.8329578506195423
+Liver,RP-pos,ST002680,bio_90217016808,Control,8 weeks of training or control time,Male,90217016808,0,5.102207135009783,4.651083633521759
+Liver,RP-pos,ST002680,bio_90218016808,Training,8 weeks of training or control time,Male,90218016808,8,5.0414956690470225,-7.448739830222831
+Liver,RP-pos,ST002680,bio_90222016808,Training,8 weeks of training or control time,Male,90222016808,8,4.108455366770441,-5.433546384479903
+Liver,RP-pos,ST002680,bio_90223016808,Training,8 weeks of training or control time,Male,90223016808,8,3.182127781677193,-0.33386995281555
+Liver,RP-pos,ST002680,bio_90225016808,Training,8 weeks of training or control time,Male,90225016808,8,4.400964494578083,-1.0467513856349417
+Liver,RP-pos,ST002680,bio_90227016808,Training,8 weeks of training or control time,Male,90227016808,8,2.7486887898763297,7.988486698996603
+Liver,RP-pos,ST002680,bio_90229016808,Control,8 weeks of training or control time,Male,90229016808,0,4.406922175089562,-8.038773071776166
+Liver,RP-pos,ST002680,bio_90232016808,Control,8 weeks of training or control time,Male,90232016808,0,1.9778423166911006,0.29971954773847426
+Liver,RP-pos,ST002680,bio_90237016808,Control,8 weeks of training or control time,Male,90237016808,0,5.451627029927531,-0.6787573638590011
+Liver,RP-pos,ST002680,bio_90239016808,Control,8 weeks of training or control time,Male,90239016808,0,11.575796837615837,-4.009246998707787
+Liver,RP-pos,ST002680,bio_90245016808,Control,8 weeks of training or control time,Female,90245016808,0,4.730516345214891,-2.4887477081457323
+Liver,RP-pos,ST002680,bio_90248016808,Control,8 weeks of training or control time,Female,90248016808,0,8.835061647033779,-9.832592213576246
+Liver,RP-pos,ST002680,bio_90251016808,Training,8 weeks of training or control time,Female,90251016808,8,4.642828785451223,-0.6744528865804814
+Liver,RP-pos,ST002680,bio_90252016808,Control,8 weeks of training or control time,Female,90252016808,0,0.0,nan
+Liver,RP-pos,ST002680,bio_90254016808,Training,8 weeks of training or control time,Female,90254016808,8,6.247758271280821,-7.548067140483732
+Liver,RP-pos,ST002680,bio_90258016808,Training,8 weeks of training or control time,Female,90258016808,8,2.521253286234496,1.300549195490549
+Liver,RP-pos,ST002680,bio_90259016808,Training,8 weeks of training or control time,Female,90259016808,8,6.319478226979513,-2.729453106210426
+Liver,RP-pos,ST002680,bio_90265016808,Control,8 weeks of training or control time,Female,90265016808,0,7.6081083429972916,-7.518006145559551
+Liver,RP-pos,ST002680,bio_90266016808,Control,8 weeks of training or control time,Female,90266016808,0,4.710938498687722,-6.756274724787331
+Liver,RP-pos,ST002680,bio_90267016808,Training,8 weeks of training or control time,Female,90267016808,8,2.0708614212036336,1.9513230500800398
+Liver,RP-pos,ST002680,bio_90280016808,Training,4 weeks of training,Male,90280016808,4,0.0,nan
+Liver,RP-pos,ST002680,bio_90281016808,Training,4 weeks of training,Male,90281016808,4,3.375810582987411,-8.846647661029206
+Liver,RP-pos,ST002680,bio_90283016808,Training,4 weeks of training,Male,90283016808,4,0.0,nan
+Liver,RP-pos,ST002680,bio_90289016808,Training,4 weeks of training,Male,90289016808,4,7.509310920206712,0.879775830348549
+Liver,RP-pos,ST002680,bio_90292016808,Training,4 weeks of training,Male,90292016808,4,2.219224125162783,-8.789767509815245
+Liver,RP-pos,ST002680,bio_90406016808,Training,4 weeks of training,Female,90406016808,4,6.459731749471019,-6.415907963349396
+Liver,RP-pos,ST002680,bio_90410016808,Training,4 weeks of training,Female,90410016808,4,0.0,nan
+Liver,RP-pos,ST002680,bio_90412016808,Training,4 weeks of training,Female,90412016808,4,0.9235308336894057,-0.7576511905109552
+Liver,RP-pos,ST002680,bio_90416016808,Training,4 weeks of training,Female,90416016808,4,0.0,nan
+Liver,RP-pos,ST002680,bio_90420016808,Training,4 weeks of training,Female,90420016808,4,0.0,nan
+Liver,RP-pos,ST002680,bio_90421016808,Training,1 week of training or control time,Male,90421016808,1,12.401844706726102,-8.618046480417775
+Liver,RP-pos,ST002680,bio_90422016808,Training,1 week of training or control time,Male,90422016808,1,13.75244398473098,-5.617911662513806
+Liver,RP-pos,ST002680,bio_90423016808,Training,1 week of training or control time,Male,90423016808,1,6.624766365051245,-8.165744091242605
+Liver,RP-pos,ST002680,bio_90426016808,Training,1 week of training or control time,Male,90426016808,1,11.184600182596803,-4.542545021901003
+Liver,RP-pos,ST002680,bio_90430016808,Training,1 week of training or control time,Male,90430016808,1,8.986348432922453,-6.3726669396739375
+Liver,RP-pos,ST002680,bio_90439016808,Training,2 weeks of training,Male,90439016808,2,1.771815224711118,0.9273589925402445
+Liver,RP-pos,ST002680,bio_90441016808,Training,2 weeks of training,Male,90441016808,2,8.082854578145378,-7.332078068503264
+Liver,RP-pos,ST002680,bio_90444016808,Training,2 weeks of training,Male,90444016808,2,16.402198374939047,-8.207956217562101
+Liver,RP-pos,ST002680,bio_90449016808,Training,2 weeks of training,Male,90449016808,2,10.61035462824497,0.32395202480338
+Liver,RP-pos,ST002680,bio_90450016808,Training,2 weeks of training,Male,90450016808,2,8.377467571004315,-1.391910904919057
+Liver,RP-pos,ST002680,bio_90559016808,Training,1 week of training or control time,Female,90559016808,1,4.099665402221721,-5.835039367758647
+Liver,RP-pos,ST002680,bio_90560016808,Training,1 week of training or control time,Female,90560016808,1,1.7780009550730447,-4.1108037473381565
+Liver,RP-pos,ST002680,bio_90564016808,Training,1 week of training or control time,Female,90564016808,1,1.9489352503458854,-1.1979264467757575
+Liver,RP-pos,ST002680,bio_90567016808,Training,1 week of training or control time,Female,90567016808,1,0.0,nan
+Liver,RP-pos,ST002680,bio_90571016808,Training,1 week of training or control time,Female,90571016808,1,11.889383627573752,-2.979120305858592
+Liver,RP-pos,ST002680,bio_90576016808,Training,2 weeks of training,Female,90576016808,2,2.3121191192627184,-4.396188490842367
+Liver,RP-pos,ST002680,bio_90578016808,Training,2 weeks of training,Female,90578016808,2,0.0,nan
+Liver,RP-pos,ST002680,bio_90581016808,Training,2 weeks of training,Female,90581016808,2,2.246178927103701,0.16593883975574955
+Liver,RP-pos,ST002680,bio_90585016808,Training,2 weeks of training,Female,90585016808,2,2.67399326985678,5.619514446692848
+Liver,RP-pos,ST002680,bio_90587016808,Training,2 weeks of training,Female,90587016808,2,3.2484946192423827,-7.26259201886589
+Liver,RP-pos,ST002680,blank_0,Blank,,,blank_0,,0.0,nan
+Liver,RP-pos,ST002680,blank_1,Blank,,,blank_1,,2.2994877756754173,8.399238108972828
+Liver,RP-pos,ST002680,blank_2,Blank,,,blank_2,,0.0,nan
+Liver,RP-pos,ST002680,blank_3,Blank,,,blank_3,,0.0,nan
+Liver,RP-pos,ST002680,blank_4,Blank,,,blank_4,,0.0,nan
+Lung,RP-neg,ST002672,bio_90217016606,Control,8 weeks of training or control time,Male,90217016606,0,1.8637821825663434,-8.864214912396157
+Lung,RP-neg,ST002672,bio_90218016606,Training,8 weeks of training or control time,Male,90218016606,8,2.7639538630167184,-2.8409210419977797
+Lung,RP-neg,ST002672,bio_90222016606,Training,8 weeks of training or control time,Male,90222016606,8,1.9746493288676144,-4.709704828289034
+Lung,RP-neg,ST002672,bio_90223016606,Training,8 weeks of training or control time,Male,90223016606,8,3.1992770996093216,-3.1847877619554237
+Lung,RP-neg,ST002672,bio_90225016606,Training,8 weeks of training or control time,Male,90225016606,8,2.4398914235432536,-2.907821808084662
+Lung,RP-neg,ST002672,bio_90227016606,Training,8 weeks of training or control time,Male,90227016606,8,3.54989358367914,-6.760746466218575
+Lung,RP-neg,ST002672,bio_90229016606,Control,8 weeks of training or control time,Male,90229016606,0,4.892838044230192,-4.472452330918677
+Lung,RP-neg,ST002672,bio_90232016606,Control,8 weeks of training or control time,Male,90232016606,0,14.733130962880534,-8.158813652244309
+Lung,RP-neg,ST002672,bio_90237016606,Control,8 weeks of training or control time,Male,90237016606,0,10.952344931030272,-1.724749948922756
+Lung,RP-neg,ST002672,bio_90239016606,Control,8 weeks of training or control time,Male,90239016606,0,0.0,nan
+Lung,RP-neg,ST002672,bio_90245016606,Control,8 weeks of training or control time,Female,90245016606,0,2.639411728922482,0.7204067995477546
+Lung,RP-neg,ST002672,bio_90248016606,Control,8 weeks of training or control time,Female,90248016606,0,1.8061542154947616,-8.438499799903223
+Lung,RP-neg,ST002672,bio_90251016606,Training,8 weeks of training or control time,Female,90251016606,8,0.0,nan
+Lung,RP-neg,ST002672,bio_90252016606,Control,8 weeks of training or control time,Female,90252016606,0,7.574708985900955,5.936454314400629
+Lung,RP-neg,ST002672,bio_90254016606,Training,8 weeks of training or control time,Female,90254016606,8,2.1874582046508424,-1.1474072892302454
+Lung,RP-neg,ST002672,bio_90258016606,Training,8 weeks of training or control time,Female,90258016606,8,0.0,nan
+Lung,RP-neg,ST002672,bio_90259016606,Training,8 weeks of training or control time,Female,90259016606,8,3.6871789891561244,-4.674362509775427
+Lung,RP-neg,ST002672,bio_90265016606,Control,8 weeks of training or control time,Female,90265016606,0,1.8767152997334484,-4.7971355558555375
+Lung,RP-neg,ST002672,bio_90266016606,Control,8 weeks of training or control time,Female,90266016606,0,1.9257636586507356,3.446923305583188
+Lung,RP-neg,ST002672,bio_90267016606,Training,8 weeks of training or control time,Female,90267016606,8,5.037682129160561,2.0931928843797882
+Lung,RP-neg,ST002672,bio_90280016606,Training,4 weeks of training,Male,90280016606,4,6.3203402740478625,7.059187637355319
+Lung,RP-neg,ST002672,bio_90281016606,Training,4 weeks of training,Male,90281016606,4,2.1245998339335337,0.5354634430222238
+Lung,RP-neg,ST002672,bio_90283016606,Training,4 weeks of training,Male,90283016606,4,6.583932643381692,-8.788756004785196
+Lung,RP-neg,ST002672,bio_90289016606,Training,4 weeks of training,Male,90289016606,4,2.663222908019975,-8.429890648830266
+Lung,RP-neg,ST002672,bio_90292016606,Training,4 weeks of training,Male,90292016606,4,5.153571686299694,-0.909443877353947
+Lung,RP-neg,ST002672,bio_90406016606,Training,4 weeks of training,Female,90406016606,4,5.830011759440007,-1.2667301143110228
+Lung,RP-neg,ST002672,bio_90410016606,Training,4 weeks of training,Female,90410016606,4,3.272635744222038,5.353435636181683
+Lung,RP-neg,ST002672,bio_90412016606,Training,4 weeks of training,Female,90412016606,4,7.454446503702875,7.278509018901851
+Lung,RP-neg,ST002672,bio_90416016606,Training,4 weeks of training,Female,90416016606,4,5.044433456420815,-4.367504594657139
+Lung,RP-neg,ST002672,bio_90420016606,Training,4 weeks of training,Female,90420016606,4,5.669956534830728,-4.809214106362524
+Lung,RP-neg,ST002672,bio_90421016606,Training,1 week of training or control time,Male,90421016606,1,13.159559417724488,-3.887284423367614
+Lung,RP-neg,ST002672,bio_90422016606,Training,1 week of training or control time,Male,90422016606,1,7.5506587229410975,-4.20670784097172
+Lung,RP-neg,ST002672,bio_90423016606,Training,1 week of training or control time,Male,90423016606,1,8.587402237447124,0.9704113279224701
+Lung,RP-neg,ST002672,bio_90426016606,Training,1 week of training or control time,Male,90426016606,1,8.557276147969537,-9.325587385166205
+Lung,RP-neg,ST002672,bio_90430016606,Training,1 week of training or control time,Male,90430016606,1,4.269565069834368,-0.7736796349766843
+Lung,RP-neg,ST002672,bio_90439016606,Training,2 weeks of training,Male,90439016606,2,6.64030821202585,-4.529947919245098
+Lung,RP-neg,ST002672,bio_90441016606,Training,2 weeks of training,Male,90441016606,2,5.54026597595211,0.11152257560297192
+Lung,RP-neg,ST002672,bio_90444016606,Training,2 weeks of training,Male,90444016606,2,6.044505262756298,-2.726569941434614
+Lung,RP-neg,ST002672,bio_90449016606,Training,2 weeks of training,Male,90449016606,2,2.1204110440572315,-2.8749954962491597
+Lung,RP-neg,ST002672,bio_90450016606,Training,2 weeks of training,Male,90450016606,2,5.6578226481118845,0.6341960945895301
+Lung,RP-neg,ST002672,bio_90559016606,Training,1 week of training or control time,Female,90559016606,1,4.247007050577842,-7.196681649680214
+Lung,RP-neg,ST002672,bio_90560016606,Training,1 week of training or control time,Female,90560016606,1,4.0868513193766685,8.016365004338025
+Lung,RP-neg,ST002672,bio_90564016606,Training,1 week of training or control time,Female,90564016606,1,2.2739903193155544,0.8397426580814052
+Lung,RP-neg,ST002672,bio_90567016606,Training,1 week of training or control time,Female,90567016606,1,15.330334405517535,0.38931230362230346
+Lung,RP-neg,ST002672,bio_90571016606,Training,1 week of training or control time,Female,90571016606,1,1.9849836146036983,-2.360083347646878
+Lung,RP-neg,ST002672,bio_90576016606,Training,2 weeks of training,Female,90576016606,2,4.490995431518536,-3.7632081768216477
+Lung,RP-neg,ST002672,bio_90578016606,Training,2 weeks of training,Female,90578016606,2,2.978697363789906,-1.3793479635526837
+Lung,RP-neg,ST002672,bio_90581016606,Training,2 weeks of training,Female,90581016606,2,9.389750420633915,1.2784048480809531
+Lung,RP-neg,ST002672,bio_90585016606,Training,2 weeks of training,Female,90585016606,2,5.53224879862473,-5.119713198467418
+Lung,RP-neg,ST002672,bio_90587016606,Training,2 weeks of training,Female,90587016606,2,3.9913125704447268,-9.937426976150752
+Lung,RP-neg,ST002672,blank_0,Blank,,,blank_0,,1.8973067146300953,2.903621631931042
+Lung,RP-neg,ST002672,blank_1,Blank,,,blank_1,,0.0,nan
+Lung,RP-neg,ST002672,blank_2,Blank,,,blank_2,,0.0,nan
+Lung,RP-neg,ST002672,blank_3,Blank,,,blank_3,,0.0,nan
+Plasma,RP-pos,ST002633,bio_90217013105,Control,8 weeks of training or control time,Male,90217013105,0,3.4320110265096373,4.867323453121263
+Plasma,RP-pos,ST002633,bio_90218013105,Training,8 weeks of training or control time,Male,90218013105,8,3.7537355456034716,8.758035255973084
+Plasma,RP-pos,ST002633,bio_90222013105,Training,8 weeks of training or control time,Male,90222013105,8,0.0,nan
+Plasma,RP-pos,ST002633,bio_90223013105,Training,8 weeks of training or control time,Male,90223013105,8,2.9091947713216437,5.303284141699007
+Plasma,RP-pos,ST002633,bio_90225013105,Training,8 weeks of training or control time,Male,90225013105,8,5.514930700683597,-5.131872912934205
+Plasma,RP-pos,ST002633,bio_90227013105,Training,8 weeks of training or control time,Male,90227013105,8,0.0,nan
+Plasma,RP-pos,ST002633,bio_90229013105,Control,8 weeks of training or control time,Male,90229013105,0,2.4279537277221275,-0.11590660098282923
+Plasma,RP-pos,ST002633,bio_90232013105,Control,8 weeks of training or control time,Male,90232013105,0,1.820747341156024,6.414317717279433
+Plasma,RP-pos,ST002633,bio_90237013105,Control,8 weeks of training or control time,Male,90237013105,0,13.775977120971675,-3.841556284074968
+Plasma,RP-pos,ST002633,bio_90239013105,Control,8 weeks of training or control time,Male,90239013105,0,5.669513519032801,-5.055058140991034
+Plasma,RP-pos,ST002633,bio_90245013105,Control,8 weeks of training or control time,Female,90245013105,0,9.825574159749307,-6.3668256737423885
+Plasma,RP-pos,ST002633,bio_90248013105,Control,8 weeks of training or control time,Female,90248013105,0,2.262385615030947,0.3376684961457531
+Plasma,RP-pos,ST002633,bio_90251013105,Training,8 weeks of training or control time,Female,90251013105,8,10.844913627115975,-4.14785268403931
+Plasma,RP-pos,ST002633,bio_90252013105,Control,8 weeks of training or control time,Female,90252013105,0,12.207283158111595,2.141974916430191
+Plasma,RP-pos,ST002633,bio_90254013105,Training,8 weeks of training or control time,Female,90254013105,8,4.234495122019439,0.395535119139747
+Plasma,RP-pos,ST002633,bio_90258013105,Training,8 weeks of training or control time,Female,90258013105,8,16.60516433054605,4.685087028792426
+Plasma,RP-pos,ST002633,bio_90259013105,Training,8 weeks of training or control time,Female,90259013105,8,10.708681419881161,3.3118771192863776
+Plasma,RP-pos,ST002633,bio_90265013105,Control,8 weeks of training or control time,Female,90265013105,0,13.421810926818866,-2.945200120469793
+Plasma,RP-pos,ST002633,bio_90266013105,Control,8 weeks of training or control time,Female,90266013105,0,5.008248037719707,-3.5003736177220635
+Plasma,RP-pos,ST002633,bio_90267013105,Training,8 weeks of training or control time,Female,90267013105,8,19.782377187601647,8.685932007367105
+Plasma,RP-pos,ST002633,bio_90280013105,Training,4 weeks of training,Male,90280013105,4,7.368789760843919,-4.056925509972297
+Plasma,RP-pos,ST002633,bio_90281013105,Training,4 weeks of training,Male,90281013105,4,4.59211735483807,-5.393118615501388
+Plasma,RP-pos,ST002633,bio_90283013105,Training,4 weeks of training,Male,90283013105,4,8.055105114237524,1.4676536158959839
+Plasma,RP-pos,ST002633,bio_90289013105,Training,4 weeks of training,Male,90289013105,4,1.7813507876078467,-5.228315421182438
+Plasma,RP-pos,ST002633,bio_90292013105,Training,4 weeks of training,Male,90292013105,4,2.4368219116211183,-4.345463638162535
+Plasma,RP-pos,ST002633,bio_90406013105,Training,4 weeks of training,Female,90406013105,4,9.74916554616302,-9.049186182021685
+Plasma,RP-pos,ST002633,bio_90410013105,Training,4 weeks of training,Female,90410013105,4,4.376098855336473,4.690072744246027
+Plasma,RP-pos,ST002633,bio_90412013105,Training,4 weeks of training,Female,90412013105,4,8.410979666646407,-1.9776137612397677
+Plasma,RP-pos,ST002633,bio_90416013105,Training,4 weeks of training,Female,90416013105,4,3.0220056795756554,-3.348803376486831
+Plasma,RP-pos,ST002633,bio_90420013105,Training,4 weeks of training,Female,90420013105,4,9.590083154296897,2.9272889059668343
+Plasma,RP-pos,ST002633,bio_90421013105,Training,1 week of training or control time,Male,90421013105,1,7.670796550623622,2.199539889756067
+Plasma,RP-pos,ST002633,bio_90422013105,Training,1 week of training or control time,Male,90422013105,1,4.919175085957894,2.2455114708003006
+Plasma,RP-pos,ST002633,bio_90423013105,Training,1 week of training or control time,Male,90423013105,1,6.272061196644995,-6.879034769589482
+Plasma,RP-pos,ST002633,bio_90426013105,Training,1 week of training or control time,Male,90426013105,1,0.0,nan
+Plasma,RP-pos,ST002633,bio_90430013105,Training,1 week of training or control time,Male,90430013105,1,8.664739521789485,3.541602796277085
+Plasma,RP-pos,ST002633,bio_90439013105,Training,2 weeks of training,Male,90439013105,2,0.0,nan
+Plasma,RP-pos,ST002633,bio_90441013105,Training,2 weeks of training,Male,90441013105,2,7.608201919301301,3.808138701393547
+Plasma,RP-pos,ST002633,bio_90444013105,Training,2 weeks of training,Male,90444013105,2,2.7704675657908155,2.0617674233652186
+Plasma,RP-pos,ST002633,bio_90449013105,Training,2 weeks of training,Male,90449013105,2,3.5689276540120347,-1.4584182621123507
+Plasma,RP-pos,ST002633,bio_90450013105,Training,2 weeks of training,Male,90450013105,2,0.0,nan
+Plasma,RP-pos,ST002633,bio_90559013105,Training,1 week of training or control time,Female,90559013105,1,19.824449856058624,-5.940689133277477
+Plasma,RP-pos,ST002633,bio_90560013105,Training,1 week of training or control time,Female,90560013105,1,7.4278871292115,-6.21861685455055
+Plasma,RP-pos,ST002633,bio_90564013105,Training,1 week of training or control time,Female,90564013105,1,20.735436020406063,2.8308173527305587
+Plasma,RP-pos,ST002633,bio_90567013105,Training,1 week of training or control time,Female,90567013105,1,17.696419727070996,-0.7665978457387618
+Plasma,RP-pos,ST002633,bio_90571013105,Training,1 week of training or control time,Female,90571013105,1,18.23475210876463,-8.733477460933143
+Plasma,RP-pos,ST002633,bio_90576013105,Training,2 weeks of training,Female,90576013105,2,20.55715504379276,-4.1221255150464815
+Plasma,RP-pos,ST002633,bio_90578013105,Training,2 weeks of training,Female,90578013105,2,30.067446340942446,1.5479235147012451
+Plasma,RP-pos,ST002633,bio_90581013105,Training,2 weeks of training,Female,90581013105,2,23.475948243713322,-6.764481763358547
+Plasma,RP-pos,ST002633,bio_90585013105,Training,2 weeks of training,Female,90585013105,2,17.99648215688071,-6.851840523782355
+Plasma,RP-pos,ST002633,bio_90587013105,Training,2 weeks of training,Female,90587013105,2,28.15882674865705,-2.082421108111688
+Plasma,RP-pos,ST002633,blank_0,Blank,,,blank_0,,0.0,nan
+Plasma,RP-pos,ST002633,blank_1,Blank,,,blank_1,,0.0,nan
+Plasma,RP-pos,ST002633,blank_2,Blank,,,blank_2,,0.0,nan
+Plasma,RP-pos,ST002633,blank_3,Blank,,,blank_3,,0.0,nan

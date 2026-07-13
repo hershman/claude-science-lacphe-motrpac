@@ -1,0 +1,8 @@
+rank,analog,composite,hydrolytic_stability,pharmacophore_fidelity,dock_consistency_holo,activity_retention,DILI_prob,hERG_prob,caco2_logPapp,QED,SAscore,admet_factor,route,boltz_HCAR1_binderP,boltz_HCAR1_logIC50,boltz_HCAR1_IC50_uM,cofolded,composite_v2,rank_v2
+0,Lac-Phe (parent),0.593,0.1,1.0,1.0,1.0,0.316,0.043,-5.69,0.681,2.44,0.987,amide coupling (lactic acid + Phe),0.549,1.379,23.9,yes,0.57,
+1,"1,2,3-triazole",0.867,1.0,0.734,0.867,0.8,0.741,0.016,-5.61,0.844,3.05,0.647,"CuAAC (azide + alkyne, Cu(I))",0.584,1.444,27.8,yes,0.825,1.0
+2,Reduced amide,0.802,0.95,0.181,0.943,0.562,0.14,0.075,-5.63,0.662,2.52,1.0,reductive amination (lactaldehyde + Phe),0.731,1.546,35.2,yes,0.808,2.0
+3,Thioamide,0.697,0.6,0.487,0.933,0.71,0.358,0.036,-5.64,0.682,2.88,0.954,amide->thioamide (Lawesson's reagent) or thioacylation,0.388,0.646,4.4,yes,0.654,3.0
+4,N-Me amide,0.546,0.35,0.375,0.888,0.632,0.417,0.035,-5.2,0.799,2.81,0.906,amide coupling with N-Me-Phe,,,,no (not advanced),,
+5,D-Phe,0.538,0.15,0.686,0.944,0.815,0.35,0.044,-5.62,0.681,2.44,0.96,amide coupling (lactic acid + D-Phe),0.609,1.239,17.3,yes,0.54,4.0
+6,alpha-Me-Phe,0.445,0.35,0.966,0.873,0.368,0.378,0.037,-5.52,0.714,2.87,0.938,amide coupling with alpha-methyl-Phe,,,,no (not advanced),,
